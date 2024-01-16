@@ -1,7 +1,7 @@
 ---
 layout: post
 title: changes-in-equity-statement
-tags: "NEEDS WORK"
+tags: [NeedsWork]
 ---
 
 #### How to

@@ -21,13 +21,13 @@ author: mcc
 
 navbar-links:
   About Me: "aboutme"
-  Favorites: 
+  Favorites: "_posts/2024-01-07-sl-depreciation.md"
   Resources:
     - McGraw Course: "https://connect.mheducation.com/connect/hmStudentCourseList.do"
     - AIPB: "https://aipb.org/"
     - NACPB: "https://www.certifiedpublicbookkeeper.org/"
     - Glossary: "_posts/2020-01-01-glossary-accounting-terms.md"
-    - MCC GitHub: "https://github.com/mcc-us"
+  Home: "https://github.com/mcc-us"
 
 ################
 # --- Logo --- #

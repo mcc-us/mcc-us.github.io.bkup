@@ -22,7 +22,7 @@ author: mcc
 navbar-links:
   About Me: "aboutme"
   Tags: "tags"
-  Favorites: "/2024-01-07-sl-depreciation.md"
+  Favorites: "2024-01-07-sl-depreciation.md"
   Resources:
     - McGraw Course: "https://connect.mheducation.com/connect/hmStudentCourseList.do"
     - AIPB: "https://aipb.org/"

@@ -1,0 +1,6 @@
+total 1528
+-rw-rw-r-- 1 mcc mcc 673854 Sep 27 17:11 21-Key-Bookkeeping-Changes-in-Current-Tax-Law-2023.pdf
+-rw-rw-r-- 1 mcc mcc 583004 Sep 27 17:10 Better-Bookkeeping-in-15-Minutes—2023.pdf
+-rw-rw-r-- 1 mcc mcc      0 Sep 27 17:19 files.txt
+-rw-rw-r-- 1 mcc mcc 156344 Sep 27 17:11 The-Bookkeepers-Guide-to-Internal-Controls.pdf
+-rw-rw-r-- 1 mcc mcc 100802 Sep 27 17:11 Welcome-to-AIPB.pdf

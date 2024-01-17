@@ -16,13 +16,14 @@ As found in [straight line depreciation - youtube](https://www.youtube.com/watch
 
 ### Step 1 - Write down your known info
 
-| Straight Line Depreciation Example ||
-| :--- |-----: |
+| Straight Line Depreciation Example |  |
+|:-----------------------------------|-:|
 | Asset name/description | truck |
-| Depreciation method | linear depreciation   |
-| Asset initial cost | 50,000 |
+| Depreciation method | linear depreciation |
+| Asset initial cost | $50,000 |
 | Residual (salvage) value | 10,000 |
 | Useful life | 5 yr |
+| Depreciation Rate | 1/5 = 20% per yr |
 
 <br>
 

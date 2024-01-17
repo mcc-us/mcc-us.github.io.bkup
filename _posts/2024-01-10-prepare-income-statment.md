@@ -1,9 +1,10 @@
 ---
 layout: post
 title: prepare-income-statement
+tags: financials income
 ---
 
-Retain Revenue & Expense accounts
+**Retain only revenue & expenses**
 
 
 ![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)

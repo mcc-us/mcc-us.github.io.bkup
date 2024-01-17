@@ -6,7 +6,7 @@ tags: financials
 
 #### How to in 7 steps
 
-Step 1: MUST Prepare Income Statement  
+Step 1: MUST Prepare Income Statement **FIRST**  
 Step 2: Set-up 4 column worksheet  
 Step 3. ADD: Common Shares at beginning of period  
 Step 4. ADD: Retained Earning at beginning of period  
@@ -24,7 +24,7 @@ Step 7. +/- Net Income/Losses
 |-------------:|--------------:|------------------:|--------:|
 | Jan. 1, 2024 |       $60,000 |           $10,000 | $70,000 |
 | Add: Net Income |            |            20,700 |  20,000 |
-| Reduce: Shares Bought/Sold   |                 0 |       0 |
+| Reduce: Shares Bought/Sold   | 0 |             0 |       0 |
 | Reduce: Dividends |          |           (3,000) |  (3,000)|
 | Dec. 31, 2024 |       $60,000 |           $27,700 |  $87,700|
 |               |               |                   |         |

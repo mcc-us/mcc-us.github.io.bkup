@@ -13,11 +13,9 @@ abbreviated steps
    2. Begin change End
    3. Net income/loss increases owner's equity
    4. Added investments increase equity
-   5. Net loss -> a decrease in equity
-   6. Withdrawals represent a decrease in equity
-   7. 
-<br>   
-3. Balance Sheet  - **A = L + S.E.; Account balances For a specific date**
+   5. Withdrawals represent a decrease in equity
+
+3. Balance Sheet  - **A = L + S.E.; Balances on a Specific Date**
 
 {: .box-warning}
 **Remember:** Reports NEED: Who, What, When

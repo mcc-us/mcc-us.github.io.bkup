@@ -9,12 +9,11 @@ Retain Revenue & Expense accounts
 ![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
 
 Step 1: ID Acts  
-Step 2: **Retain Revenue & Expense accounts**  
-Step 3: Prepare report header **Who, What, When** For WHEN use **Time Period**
-Step 4: List Assets then Expenses  
-Step 5: Totals Rev & Exp   
-Step 6: Calculate Net, **double underline bottom line**
-
+Step 2: **Retain Revenue & Expense accounts**   
+Step 3: Report **Who, What, When:Time Period**   
+Step 4: List Assets then Expenses   
+Step 5: Totals Rev & Exp    
+Step 6: Calculate Net, **double underline bottom line**   
 
 ---
 
@@ -23,8 +22,8 @@ Reporting NEEDS **Who, What, When: Time Period**)
 
 ---
 
-Company Name
-Income Statement  
+Company Name   
+Income Statement   
 For the Year Ending Dec. 31, 2024
 
 | Act | Amount | Total |

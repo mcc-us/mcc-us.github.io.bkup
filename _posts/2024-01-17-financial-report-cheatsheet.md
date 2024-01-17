@@ -1,7 +1,7 @@
 ---
 layout: post
 title: financial-report-cheatsheet
-tags: 
+tags: financials cheatsheet
 ---
 
 abbreviated steps

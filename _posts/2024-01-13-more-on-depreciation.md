@@ -1,6 +1,6 @@
 ---
 layout: post
-title: more-notes-on-depreciation
+title: more-on-depreciation
 tags: depreciation
 ---
 

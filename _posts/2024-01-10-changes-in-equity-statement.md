@@ -1,26 +1,26 @@
 ---
 layout: post
 title: changes-in-equity-statement
-tags: [NeedsWork]
+tags: financials
 ---
 
 #### How to
 
 - Find this example at Tony Bell @ accountingworkbook.com
 
-Step 1: MUST Prepare Income Statement
-Step 2: Set-up 4 column worksheet
-Step 3. ADD: Common Shares at beginning of period
-Step 4. ADD: Retained Earning at beginning of period
-Step 5. SUBTRACT: Dividends
-Step 6. +/- Common shares bought/sold
-Step 7. +/- Net Income/Losses
+Step 1: MUST Prepare Income Statement  
+Step 2: Set-up 4 column worksheet  
+Step 3. ADD: Common Shares at beginning of period  
+Step 4. ADD: Retained Earning at beginning of period  
+Step 5. SUBTRACT: Dividends  
+Step 6. +/- Common shares bought/sold  
+Step 7. +/- Net Income/Losses  
 
 ---
 
-**WHO**: *Co.*
-**WHAT**: *Statement in Changes of Shareholders Equity*
-**WHEN**: *For the Period Ending 12/31/24*
+**WHO**: *Co.*  
+**WHAT**: *Statement in Changes of Shareholders Equity*  
+**WHEN**: *For the Period Ending 12/31/24*  
 
 |              | Common Shares | Retained Earnings |   Total |
 |-------------:|--------------:|------------------:|--------:|
@@ -43,3 +43,5 @@ Step 7. +/- Net Income/Losses
 6. **Equity and Liabilities Statement**: A less common variation combines this statement with the "Statement of Liabilities and Shareholders' Equity" into a single report.   
 7. **Condensed Statement of Changes in Shareholders' Equity**   
 8. **Schedule of Changes in Shareholders' Equity**   
+   
+---

@@ -4,9 +4,7 @@ title: changes-in-equity-statement
 tags: financials
 ---
 
-#### How to
-
-- Find this example at Tony Bell @ accountingworkbook.com
+#### How to in 7 steps
 
 Step 1: MUST Prepare Income Statement  
 Step 2: Set-up 4 column worksheet  
@@ -44,4 +42,6 @@ Step 7. +/- Net Income/Losses
 7. **Condensed Statement of Changes in Shareholders' Equity**   
 8. **Schedule of Changes in Shareholders' Equity**   
    
+- Find this example at Tony Bell @ accountingworkbook.com
+
 ---

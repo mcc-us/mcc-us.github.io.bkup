@@ -8,12 +8,11 @@ Retain Revenue & Expense accounts
 
 ![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
 
-Step 1: ID Acts  
-Step 2: **Retain Revenue & Expense accounts**   
-Step 3: Report **Who, What, When:Time Period**   
-Step 4: List Assets then Expenses   
-Step 5: Totals Rev & Exp    
-Step 6: Calculate Net, **double underline bottom line**   
+Step 1: **Retain Revenue & Expense accounts**   
+Step 2: Report **Who, What, When:Time Period**   
+Step 3: List Assets / Expenses   
+Step 4: Totals Rev / Exp    
+Step 5: Calculate Net, **double underline bottom line**   
 
 ---
 

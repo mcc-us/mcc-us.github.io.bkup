@@ -3,32 +3,29 @@ layout: post
 title: prepare-income-statement
 ---
 
-How to in 6 steps
-
-- Find this example at Tony Bell @ accountingworkbook.com
-
-Step 1: ID Acts  
-Step 2: **Retain Only Revenue and Expense accounts**  
+Retain Revenue & Expense accounts
 
 
 ![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
 
-
+Step 1: ID Acts  
+Step 2: **Retain Revenue & Expense accounts**  
 Step 3: Prepare report header **Who, What, When** For WHEN use **Time Period**
+Step 4: List Assets then Expenses  
+Step 5: Totals Rev & Exp   
+Step 6: Calculate Net, **double underline bottom line**
 
-
-Step 4: List Assets first followed by Expenses  
-Step 5 Create totals for each   
-Step 6: Calculate Net Income, double underlining 'bottom line'   
-
-{: .box-warning}
-Place Dollar signs at the top of each column and at the bottom line. Do not use dollar signs on ALL values.
 
 ---
 
-Company Name  
-Title: Income Statement  
-For the Year Ending Dec. 31, 2024  
+{: .box-success}
+Reporting NEEDS **Who, What, When: Time Period**)
+
+---
+
+Company Name
+Income Statement  
+For the Year Ending Dec. 31, 2024
 
 | Act | Amount | Total |
 |----:|-------:|------:|
@@ -43,5 +40,10 @@ For the Year Ending Dec. 31, 2024
 | F |   1,200 | |
 | Total Expenses | |  48,600 |
 | Net Income <br> **The bottom line** | | $20,700 <br> **DOUBLE UNDERLINE** |
+
+{: .box-warning}
+Place Dollar signs at the top of each column and at the bottom line. Do not use dollar signs on ALL values.
+
+- Find this example at Tony Bell @ accountingworkbook.com
 
 ---

@@ -3,21 +3,21 @@ layout: post
 title: glossary-accounting-terms
 ---
 
-1. *Accounting Cycle*: **Think: record, process, report**, The cyclical process of recording, analyzing, and reporting financial transactions over a specific period.
+1. *Accounting Cycle*: **Record, process, report**, The cyclical process of recording, analyzing, and reporting financial transactions over a specific period.
 
-2. *Accounts*: A container that tracks specific assets, liabilities, equity, income, or expenses.
+1. *Accounts*: A container that tracks specific assets, liabilities, equity, income, or expenses.
 
-3. *Adjusting entries*: Fixing incomplete or inaccurate records at the end of an accounting period, ensuring the proper accounts and values are entered. (**Think: cleaning up the financials before reporting**)
+1. *Adjusting entries*: Fixing incomplete or inaccurate records at the end of an accounting period, ensuring the proper accounts and values are entered. (**Think: cleaning up the financials before reporting**)
 
-4. *Adjustment*: A change made to an account that reflects its true, or updated balances at the end of a period. (**Think: updates to keep things accurate**)
+1. *Adjustment*: A change made to an account that reflects its true, or updated balances at the end of a period. (**Think: updates to keep things accurate**)
 
-5. *Audit Trail*: **Think: breadcrumbs leading to the source**, A sequential chain of evidence (documents, entries) showing the origin and flow of information.
+1. *Audit Trail*: **Think: breadcrumbs leading to the source**, A sequential chain of evidence (documents, entries) showing the origin and flow of information.
 
-6. *Balance Ledger Form*: A two-column format listing accounts, their balances, and changes on opposite sides for achieving zero balance. (**Balancing each account**)
+1. *Balance Ledger Form*: A two-column format listing accounts, their balances, and changes on opposite sides for achieving zero balance. (**Balancing each account**)
 
-7. *Balance sheet*: A formal report of a business’s financial assets, liabilities, and owner's equity for a specific period, (**Think: A = L + E**)
+1. *Balance sheet*: A formal report of a business’s financial assets, liabilities, and owner's equity for a specific period, (**Think: A = L + E**)
 
-8. *Book Value*: The remaining cost of an asset after factoring in accumulated depreciation. (**Think: worth after depreciation**)
+1. *Book Value*: The remaining cost of an asset after factoring in accumulated depreciation. (**Think: worth after depreciation**)
 
 1. *Capital*: Financial investment in a business; **Think: equity**
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: more-debit-credits
+title: debit-credits-basics
 tags: basics
 ---
 
@@ -40,26 +40,6 @@ Tips from 'Bard'
 **Liabilities increase with Credits, decrease with Debits** 
 
 || Liabilities |
-|:----------|--------:|
-| Debit (-) | Credit +|
-
----
-
-## Mnemonics:
-  
-The *DEAR CLIP* mnemonic can help you remember debits/credits for the basic accounts.
-
-- **DEAR CLIP**: helps differentiate between debits and credits.
-    
-Debits => **Drawings, Expenses, Assets, Receivables** 
-
-| Drawings, Expenses, Assets, Receivables ||
-|:--------|----------:|
-| Debit + | Credit (-)|
-
-Credits => **Capital + Liabilities, Income, and Payables**.   
-
-|| Capital, Liabilities, Income, Payables |
 |:----------|--------:|
 | Debit (-) | Credit +|
 

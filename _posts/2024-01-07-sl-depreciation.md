@@ -30,10 +30,7 @@ As found in [straight line depreciation - youtube](https://www.youtube.com/watch
 
 - Annual depreciation expense:
 
-$=\frac{initial~ -~ final ~cost}{usefullness~in ~years} = \frac{50k ~- ~10k}{5 yr} = 8k/yr$
-
-\\[ \frac{1}{n^{2}} \\]
-
+= (initial - final cost) / (usefullness in years) = ($50k - $10k)(5 yr) = $8k/yr
 
 | Straight Line Depreciation Example ||
 |---:|-----:|

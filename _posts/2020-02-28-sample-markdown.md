@@ -24,7 +24,6 @@ Green demo post / box using [markdown](https://markdowntutorial.com/)
 ```
 {: .box-success}
 Green demo post / box using [markdown](https://markdowntutorial.com/)
-
 ```
 
 ### Notification boxes
@@ -76,7 +75,7 @@ Green demo post / box using [markdown](https://markdowntutorial.com/)
 
 `[Absolute link to a page](https://mcc-us.github.io/2020-02-28-sample-markdown/)`
 
-`[Use relative link to a section inside a page](#local-urls)`
+`[Relative link to a section inside a page](#local-urls)`
 
 ---
 

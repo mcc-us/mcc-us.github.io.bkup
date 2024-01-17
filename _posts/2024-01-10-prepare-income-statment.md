@@ -37,7 +37,7 @@ For the Year Ending Dec. 31, 2024
 | E |  30,000 | |
 | F |   1,200 | |
 | Total Expenses | |  48,600 |
-| Net Income <br> **The bottom line** | | $20,700 <br> **DOUBLE UNDERLINE** |
+| Net Income | | $20,700 <br> **DOUBLE UNDERLINE** |
 
 {: .box-warning}
 Place Dollar signs at the top of each column and at the bottom line. Do not use dollar signs on ALL values.

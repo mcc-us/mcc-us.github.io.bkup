@@ -16,9 +16,10 @@ abbreviated steps
    5. Net loss -> a decrease in equity
    6. Withdrawals represent a decrease in equity
    7. 
-   
+<br>   
 3. Balance Sheet  - **A = L + S.E.; Account balances For a specific date**
 
-Reports NEED: Who, What, When 
+{: .box-warning}
+**Remember:** Reports NEED: Who, What, When
 
 ---

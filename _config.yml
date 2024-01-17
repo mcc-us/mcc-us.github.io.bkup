@@ -20,15 +20,16 @@ author: mcc
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Tags: "tags"
-  Favorites: "https://mcc-us.github.io/2023-12-27-debit-credits-explained-youtube-1/"
+  Favorites: 
+    - dr+cr: "https://mcc-us.github.io/2023-12-27-debit-credits-explained-youtube-1/"
+    - markdown: ""
   Resources:
     - McGraw Course: "https://connect.mheducation.com/connect/hmStudentCourseList.do"
     - AIPB: "https://aipb.org/"
     - NACPB: "https://www.certifiedpublicbookkeeper.org/"
     - Glossary: "_posts/2020-01-01-glossary-accounting-terms.md"
-  Home: "https://github.com/mcc-us"
+  About Me: "https://github.com/mcc-us"
 
 ################
 # --- Logo --- #

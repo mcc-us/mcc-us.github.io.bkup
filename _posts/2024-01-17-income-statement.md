@@ -4,18 +4,16 @@ title: 1-income-statement
 tags: reporting
 ---
 
-**Retain only revenue & expenses**
+**Retain revenue & expenses to calculate Net Income/Loss**
 
-The **Income Statement is the first step** in creating the three basic financial reports
 
 ![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
 
-Step 1: **Retain Revenue & Expense accounts**   
-Step 2: Report **Who, What, When:Time Period**   
-Step 3: Use 3 column worksheet
-Step 4: List Revenues & total   
-Step 5: List Expenses & total    
-Step 6: Calculate Net & double underline bottom line   
+Step 1: **Retain Revenue & Expense accounts**     
+Step 2: Use 3 column worksheet
+Step 3: List Revenues & total   
+Step 4: List Expenses & total    
+Step 5: Calculate Net & double underline bottom line   
 
 ---
 

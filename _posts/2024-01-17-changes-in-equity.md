@@ -6,12 +6,12 @@ tags: reporting
 
 The **Changes in Equity Statement** is needed for **Total Equity in Balance Sheet**.
 
+{: .box-success}
+Think: Common Shares & Retained Earnings
+
 ![Example Income Statement](/assets/tony-bell/equity.numbers.png)
 
 **Prepare a statement of changes in equity for the year ended December 31, 2024.**
-
-{: .box-success}
-Think: Common Shares & Retained Earnings
 
 {: .box-warning}
 NEED Income statement: **Net Income**  
@@ -22,7 +22,6 @@ NEED Income statement: **Net Income**
 4.  +/- Net Income/Losses  
 5.  +/- Common shares bought/sold  
 6. SUBTRACT: Dividends  
-
 
 ---
 

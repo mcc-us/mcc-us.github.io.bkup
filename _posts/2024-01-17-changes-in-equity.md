@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2-changes-in-equity
-tags: financials
+tags: reporting
 ---
 
 The **Changes in Equity Statement** is the 2nd financial statement.

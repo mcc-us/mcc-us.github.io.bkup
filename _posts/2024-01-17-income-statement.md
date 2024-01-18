@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1-income-statement
-tags: financials income
+tags: reporting
 ---
 
 **Retain only revenue & expenses**

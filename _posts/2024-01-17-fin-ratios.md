@@ -1,7 +1,7 @@
 ---
 layout: post
-title: financial-ratios
-tags: financials
+title: 4-financial-ratios
+tags: reporting
 ---
 
 how to calculate

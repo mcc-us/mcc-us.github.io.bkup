@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: home
+title: bookkeeping
 
 # Your name to show in the footer
 author: mcc
@@ -22,8 +22,8 @@ author: mcc
 navbar-links:
   Tags: "tags"
   Financial Statements: 
-    - income: "https://mcc-us.github.io/2024-01-10-prepare-income-statment/"
-    - equity: "https://mcc-us.github.io/2024-01-10-changes-in-equity-statement/"
+    - income: "https://mcc-us.github.io/2024-01-17-income-statement/"
+    - equity: "https://mcc-us.github.io/2024-01-10-changes-in-equity/"
     - balance sheet: "https://mcc-us.github.io/2024-01-17-balance-sheet/"
     - ratios: "https://mcc-us.github.io/2024-01-17-fin-ratios/"
   Favorites: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3-balance-sheet
-tags: financials
+tags: reporting
 ---
 
 The **Balance Sheet** is the 3rd step in financial statement.

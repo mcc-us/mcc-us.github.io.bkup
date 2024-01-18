@@ -4,7 +4,10 @@ title: 1-income-statement
 tags: reporting
 ---
 
-**Retain revenue & expenses to calculate Net Income/Loss**
+{: .box-success}
+Think: Revenue & Expenses to calculate Net Income/Loss
+
+The **Income Statement** is needed for **Net Income/Loss in Equity calculations**.
 
 
 ![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)

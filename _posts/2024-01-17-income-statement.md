@@ -31,12 +31,12 @@ For the Year Ending Dec. 31, 2024
 | Revenue | | |
 | Shuttle Rides | | $69,300 |
 | Expenses | | |
-| A | $11,000 | |
-| B |   2,000 | |
-| C |   4,000 | |
-| D |    400 | |
-| E |  30,000 | |
-| F |   1,200 | |
+| Fuel | $11,000 | |
+| Depreciation |   2,000 | |
+| Ins. |   4,000 | |
+| Tele. |    400 | |
+| Wages |  30,000 | |
+| Utils. |   1,200 | |
 | Total Expenses | |  48,600 |
 | Net Income | | $20,700 <br> **DOUBLE UNDERLINE** |
 

@@ -1,18 +1,18 @@
 ---
 layout: post
-title: balance-sheet
+title: 3-balance-sheet
 tags: financials
 ---
 
 The **Balance Sheet** is the 3rd step in financial statement.
 
-- Prepare Income statement: **Revenue - expenses = Net Income; For a period of time**  
+- NEED Income statement: **Net Income**  
     
-- Prepare Statement of Owner's Equity: **Common Shares, Retained Earnings**
+- NEED Statement of Owner's Equity: **Total Equity**
   
-1. Gather Current Assets & Long-term Assets
-2. Gather Current Liabilities & Long-term Liabilities (NOT Expenses)
-3. Prepare 6 column worksheet
+1. Prepare 6 column worksheet
+2. Gather Current Assets & Long-term Assets
+3. Gather Current Liabilities & Long-term Liabilities (NOT Expenses)
 
 {: .box-warning}
 **Remember:** Reports NEED: Who, What, When

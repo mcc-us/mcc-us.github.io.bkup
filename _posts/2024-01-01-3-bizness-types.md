@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3-business-types
-tags: business
+tags: businessTypes
 ---
 
 

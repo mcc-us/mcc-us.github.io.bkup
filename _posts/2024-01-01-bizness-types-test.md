@@ -1,7 +1,7 @@
 ---
 layout: post
 title: business-types-table-test
-tags: test
+tags: test businessTypes
 ---
 
 

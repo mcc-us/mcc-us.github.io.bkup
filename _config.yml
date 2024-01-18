@@ -28,7 +28,7 @@ navbar-links:
     - McGraw Course: "https://connect.mheducation.com/connect/hmStudentCourseList.do"
     - AIPB: "https://aipb.org/"
     - NACPB: "https://www.certifiedpublicbookkeeper.org/"
-    - Glossary: "_posts/2020-01-01-glossary-accounting-terms.md"
+    - Glossary: "/2020-01-01-glossary-accounting-terms.md"
   About Me: "https://github.com/mcc-us"
 
 ################

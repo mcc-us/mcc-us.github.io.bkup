@@ -4,15 +4,14 @@ title: changes-in-equity-statement
 tags: financials
 ---
 
-#### How to in 7 steps
+The **Changes in Equity** statement is the 2nd financial statement.
 
-Step 1: MUST Prepare Income Statement **FIRST**  
-Step 2: Set-up 4 column worksheet  
-Step 3. ADD: Common Shares at beginning of period  
-Step 4. ADD: Retained Earning at beginning of period  
-Step 5. SUBTRACT: Dividends  
-Step 6. +/- Common shares bought/sold  
-Step 7. +/- Net Income/Losses  
+Step 1: Set-up 4 column worksheet  
+Step 2. ADD: Common Shares at beginning of period  
+Step 3. ADD: Retained Earning at beginning of period  
+Step 4. SUBTRACT: Dividends  
+Step 5. +/- Common shares bought/sold  
+Step 6. +/- Net Income/Losses  
 
 ---
 

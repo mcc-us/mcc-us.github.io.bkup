@@ -4,7 +4,7 @@ title: balance-sheet
 tags: financials
 ---
 
-abbreviated steps
+The **Balance Sheet** is the 3rd step in financial statement.
 
 - Prepare Income statement: **Revenue - expenses = Net Income; For a period of time**  
     

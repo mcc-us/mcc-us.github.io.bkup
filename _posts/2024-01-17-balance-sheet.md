@@ -19,9 +19,9 @@ The **Balance Sheet** is the 3rd step in financial statement.
 
 ---
 
-Co.
-Balance Sheet
-For the date 12/31/24
+Co.    
+Balance Sheet   
+For the date 12/31/24   
 
 |Assets|  |  |Liabilities| | |
 | -: | -: | -: | -: | -: | -: |

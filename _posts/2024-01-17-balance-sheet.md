@@ -4,18 +4,19 @@ title: 3-balance-sheet
 tags: reporting
 ---
 
-The **Balance Sheet** is the 3rd step in financial statement.
+The **Balance Sheet** is the 3rd step in financial statement.  
     
-- NEED Statement of Owner's Equity: **Total Equity**
+{: .box-success}
+NEED **Total Equity** from Statement of Owner's Equity   
   
-![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
+![Example Income Statement](/assets/tony-bell/balance.sheet.numbers.png)   
 
-1. Prepare 6 column worksheet
-2. Gather Current Assets & Long-term Assets
-3. Gather Current Liabilities & Long-term Liabilities (NOT Expenses)
+1. Prepare 6 column worksheet   
+2. Gather Current Assets & Long-term Assets  
+3. Gather Current Liabilities & Long-term Liabilities (NOT Expenses)   
 
 {: .box-warning}
-**Remember:** Reports NEED: Who, What, When
+**Remember:** Reports NEED: Who, What, When  
 
 ---
 

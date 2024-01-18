@@ -6,6 +6,8 @@ tags: reporting
 
 The **Changes in Equity Statement** is needed for **Total Equity in Balance Sheet**.
 
+![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
+
 - NEED Income statement: **Net Income**  
   
 1. Set-up 4 column worksheet  

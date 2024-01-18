@@ -8,6 +8,8 @@ The **Balance Sheet** is the 3rd step in financial statement.
     
 - NEED Statement of Owner's Equity: **Total Equity**
   
+![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
+
 1. Prepare 6 column worksheet
 2. Gather Current Assets & Long-term Assets
 3. Gather Current Liabilities & Long-term Liabilities (NOT Expenses)

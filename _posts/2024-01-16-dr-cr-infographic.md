@@ -1,7 +1,7 @@
 ---
 layout: post
 title: dr-cr-infographic
-tags:
+tags: drcr
 ---
 
 A table to help remember the debit/credit tables.

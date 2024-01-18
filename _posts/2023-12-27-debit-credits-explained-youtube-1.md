@@ -1,7 +1,7 @@
 ---
 layout: post
 title: debit-credits-explained-youtube-1
-tags: debit
+tags: drcr
 ---
 
 Helpful video: [@AccountingStuff](https://www.youtube.com/watch?v=VhwZ9t2b3Zk)

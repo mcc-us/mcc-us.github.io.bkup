@@ -10,15 +10,19 @@ The **Changes in Equity Statement** is needed for **Total Equity in Balance Shee
 
 **Prepare a statement of changes in equity for the year ended December 31, 2024.**
 
+{: .box-success}
+Think: Common Shares & Retained Earnings
+
 {: .box-warning}
 NEED Income statement: **Net Income**  
   
 1. Set-up 4 column worksheet  
 2. ADD: Common Shares at beginning of period  
 3. ADD: Retained Earning at beginning of period  
-4. SUBTRACT: Dividends  
-5. +/- Common shares bought/sold  
-6. +/- Net Income/Losses  
+4.  +/- Net Income/Losses  
+5.  +/- Common shares bought/sold  
+6. SUBTRACT: Dividends  
+
 
 ---
 
@@ -29,9 +33,9 @@ NEED Income statement: **Net Income**
 |              | Common Shares | Retained Earnings |   Total |
 |-------------:|--------------:|------------------:|--------:|
 | Jan. 1, 2024 |       $60,000 |           $10,000 | $70,000 |
-| Add: Net Income |            |            20,700 |  20,000 |
-| Reduce: Shares Bought/Sold   | 0 |             0 |       0 |
-| Reduce: Dividends |          |           (3,000) |  (3,000)|
+| Net Income (ADD)|            |            20,700 |  20,700 |
+| Shares Bought/Sold |       0 |                 0 |       0 |
+| Dividends (SUBTRACT) |        |           (3,000) |  (3,000)|
 | Dec. 31, 2024 |       $60,000 |           $27,700 |  $87,700|
 |               |               |                   |         |
 

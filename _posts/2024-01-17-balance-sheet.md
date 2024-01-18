@@ -4,7 +4,8 @@ title: 3-balance-sheet
 tags: reporting
 ---
 
-The **Balance Sheet** is the 3rd step in financial statement.  
+{: .box-success}
+Think: A = L + E  
     
 {: .box-success}
 NEED **Total Equity** from Statement of Owner's Equity   

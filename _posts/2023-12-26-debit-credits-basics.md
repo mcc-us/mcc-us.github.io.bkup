@@ -1,7 +1,6 @@
 ---
 layout: post
 title: debit-credits-basics
-tags: basics
 ---
 
 

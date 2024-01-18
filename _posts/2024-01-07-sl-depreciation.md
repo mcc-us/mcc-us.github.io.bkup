@@ -1,7 +1,7 @@
 ---
 layout: post
 title: straight-line-depreciation
-tags: [depreciation]
+tags: depreciation
 math: true
 ---
 

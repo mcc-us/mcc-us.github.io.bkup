@@ -6,6 +6,7 @@ tags: financials income
 
 **Retain only revenue & expenses**
 
+Preparing the Income Statement is the first step in creating the three basic fin reports
 
 ![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
 

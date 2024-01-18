@@ -21,6 +21,10 @@ author: mcc
 
 navbar-links:
   Tags: "tags"
+  Financial Statements: 
+    - income: "https://mcc-us.github.io/2024-01-10-prepare-income-statment/"
+    - equity: "https://mcc-us.github.io/2024-01-10-changes-in-equity-statement/"
+    - balance sheet: "https://mcc-us.github.io/2024-01-17-balance-sheet/"
   Favorites: 
     - dr+cr: "https://mcc-us.github.io/2023-12-27-debit-credits-explained-youtube-1/"
     - markdown: "https://mcc-us.github.io/2020-02-28-sample-markdown/"
@@ -28,7 +32,7 @@ navbar-links:
     - McGraw Course: "https://connect.mheducation.com/connect/hmStudentCourseList.do"
     - AIPB: "https://aipb.org/"
     - NACPB: "https://www.certifiedpublicbookkeeper.org/"
-    - Glossary: "/2020-01-01-glossary-accounting-terms.md"
+    - Glossary: "https://mcc-us.github.io/2020-01-01-glossary-accounting-terms/"
   About Me: "https://github.com/mcc-us"
 
 ################

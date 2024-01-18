@@ -1,6 +1,6 @@
 ---
 layout: post
-title: prepare-income-statement
+title: 1-income-statement
 tags: financials income
 ---
 
@@ -12,14 +12,15 @@ The **Income Statement is the first step** in creating the three basic financial
 
 Step 1: **Retain Revenue & Expense accounts**   
 Step 2: Report **Who, What, When:Time Period**   
-Step 3: List Assets / Expenses   
-Step 4: Totals Rev / Exp    
-Step 5: Calculate Net, **double underline bottom line**   
+Step 3: Use 3 column worksheet
+Step 4: List Revenues & total   
+Step 5: List Expenses & total    
+Step 6: Calculate Net & double underline bottom line   
 
 ---
 
 {: .box-success}
-Reporting NEEDS **Who, What, When: Time Period**)
+Reporting NEEDS **Who, What, When: Time Period**
 
 ---
 

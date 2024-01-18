@@ -1,10 +1,10 @@
 ---
 layout: post
-title: changes-in-equity-statement
+title: 2-changes-in-equity
 tags: financials
 ---
 
-The **Changes in Equity** statement is the 2nd financial statement.
+The **Changes in Equity Statement** is the 2nd financial statement.
 
 Step 1: Set-up 4 column worksheet  
 Step 2. ADD: Common Shares at beginning of period  

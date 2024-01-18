@@ -10,7 +10,7 @@ tags: reporting
 ![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
 
 Step 1: **Retain Revenue & Expense accounts**     
-Step 2: Use 3 column worksheet
+Step 2: Use 3 column worksheet   
 Step 3: List Revenues & total   
 Step 4: List Expenses & total    
 Step 5: Calculate Net & double underline bottom line   

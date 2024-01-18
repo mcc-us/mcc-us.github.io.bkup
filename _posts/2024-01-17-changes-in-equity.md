@@ -4,14 +4,16 @@ title: 2-changes-in-equity
 tags: reporting
 ---
 
-The **Changes in Equity Statement** is the 2nd financial statement.
+The **Changes in Equity Statement** is needed for **Total Equity in Balance Sheet**.
 
-Step 1: Set-up 4 column worksheet  
-Step 2. ADD: Common Shares at beginning of period  
-Step 3. ADD: Retained Earning at beginning of period  
-Step 4. SUBTRACT: Dividends  
-Step 5. +/- Common shares bought/sold  
-Step 6. +/- Net Income/Losses  
+- NEED Income statement: **Net Income**  
+  
+1. Set-up 4 column worksheet  
+2. ADD: Common Shares at beginning of period  
+3. ADD: Retained Earning at beginning of period  
+4. SUBTRACT: Dividends  
+5. +/- Common shares bought/sold  
+6. +/- Net Income/Losses  
 
 ---
 

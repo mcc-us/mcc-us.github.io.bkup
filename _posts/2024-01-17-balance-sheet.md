@@ -5,8 +5,6 @@ tags: reporting
 ---
 
 The **Balance Sheet** is the 3rd step in financial statement.
-
-- NEED Income statement: **Net Income**  
     
 - NEED Statement of Owner's Equity: **Total Equity**
   

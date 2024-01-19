@@ -7,14 +7,14 @@ tags: reporting
 The **Changes in Equity Statement** is needed for **Total Equity in Balance Sheet**.
 
 {: .box-success}
-Think: **Common Shares, Dividends & Retained Earnings**
+Think: **Capital, Common Shares, Income, Dividends & Retained Earnings(Withdrawls)**
 
 {: .box-warning}
 NEED Income statement: **Net Income**  
   
 1. Set-up 4 column worksheet  
-2. ADD: Common Shares at beginning of period  
-3. ADD: Retained Earning at beginning of period  
+2. ADD: Capital + Common Shares at beginning of period  
+3. ADD: Retained Earning(Withdrawls) at beginning of period  
 4.  +/- Net Income/Losses  
 5.  +/- Common shares bought/sold  
 6. SUBTRACT: Dividends  

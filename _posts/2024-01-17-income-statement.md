@@ -8,7 +8,7 @@ tags: reporting
 Think: **Revenue & Expenses** to calculate Net Income/Loss
 
 Step 1: **Obtain Revenue & Expense accounts**     
-Step 2: Use 3 column worksheet   
+Step 2: Use 3 column worksheet, *[Act, Amount, Total]*  
 Step 3: List Revenues & total   
 Step 4: List Expenses & total    
 Step 5: Calculate Net & double underline bottom line   

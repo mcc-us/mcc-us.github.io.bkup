@@ -3,7 +3,7 @@ layout: post
 title: glossary-accounting-terms
 ---
 
-Definitions are abbreviated
+Abbreviated definitions  
 
 1. *Accounting Cycle*: **Record, process, report**, The cyclical process of recording, analyzing, and reporting financial transactions over a specific period.
 

@@ -7,7 +7,7 @@ tags: reporting
 The **Changes in Equity Statement** is needed for **Total Equity in Balance Sheet**.
 
 {: .box-success}
-Think: Common Shares & Retained Earnings
+Think: **Common Shares, Dividends & Retained Earnings**
 
 {: .box-warning}
 NEED Income statement: **Net Income**  

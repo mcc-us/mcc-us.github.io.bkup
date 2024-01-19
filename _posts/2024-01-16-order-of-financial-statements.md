@@ -10,9 +10,5 @@ Q. What order are financial statements prepared? and Why?
 3. Balance Sheet <- **A = L + SE**  
 4. 3 Financial Ratios - **Current, Debt & Equity ratios**  
 
-<div class="pdf-container">
-    <iframe src="/assets/misc/9.col.balance.worksheet.pdf" title="9-column-worksheet" height="400" width="712" allowfullscreen="true">
-    </iframe>
-</div>
 
 ---

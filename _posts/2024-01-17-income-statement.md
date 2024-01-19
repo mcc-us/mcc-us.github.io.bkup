@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1-income-statement
+title: 1 income statement
 tags: reporting
 ---
 

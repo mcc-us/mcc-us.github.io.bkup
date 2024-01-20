@@ -17,7 +17,7 @@ how to calculate
 
 *Examples:*  
 
-1. **Credit ratio** = 6,500/3,800 = 1.71     
+1. **Current ratio** = 6,500/3,800 = 1.71     
 <br>
 2. **Debt ratio** = 48,800/136,500 = 35.8%     
 <br>

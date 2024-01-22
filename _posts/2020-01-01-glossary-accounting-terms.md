@@ -5,23 +5,23 @@ title: glossary-accounting-terms
 
 Abbreviated definitions  
 
-1. *Accounting Cycle*: **Record, process, report**, The cyclical process of recording, analyzing, and reporting financial transactions over a specific period.
+1. *Accounting Cycle*: **"Record, process, report"**, The cyclical process of recording, analyzing, and reporting financial transactions over a specific period.
 
 1. *Accounts*: A container that tracks specific assets, liabilities, equity, income, or expenses.
 
-2. *Adjusting entries*: Fixing incomplete or inaccurate records at the end of an accounting period, ensuring the proper accounts and values are entered. (**Think: cleaning up the financials before reporting**)
+2. *Adjusting entries*: Fixing incomplete or inaccurate records at the end of an accounting period, ensuring the proper accounts and values are entered. (**"Cleaning up the financials before reporting**)
 
-3. *Adjustment*: A change made to an account that reflects its true, or updated balances at the end of a period. (**Think: updates to keep things accurate**)
+3. *Adjustment*: A change made to an account that reflects its true, or updated balances at the end of a period. (**"updates to keep things accurate"**)
 
-4. *Audit Trail*: **Think: breadcrumbs leading to the source**, A sequential chain of evidence (documents, entries) showing the origin and flow of information.
+4. *Audit Trail*: **"breadcrumbs leading to the source"**, A sequential chain of evidence (documents, entries) showing the origin and flow of information.
 
 5. *Balance Ledger Form*: A two-column format listing accounts, their balances, and changes on opposite sides for achieving zero balance. (**Balancing each account**)
 
-6. *Balance sheet*: A formal report of a business’s financial assets, liabilities, and owner's equity for a specific period, (**Think: A = L + E**)
+6. *Balance sheet*: A formal report of a business’s financial assets, liabilities, and owner's equity for a specific period, (**"A = L + E"**)
 
 7. *Book Value*: The remaining cost of an asset after factoring in accumulated depreciation. (**Think: worth after depreciation**)
 
-8.  *Capital*: Financial investment in a business; **Think: equity**
+8.  *Capital*: Financial investment in a business; **"Owner's equity"**
 
 9.  *Chart of Accounts*: A master list of all accounts used by a company, organized by category and code for easy reference.
 

@@ -86,7 +86,7 @@ Abbreviated definitions
 
 37. *Statement of Owner’s Equity:* A financial statement summarizing changes in owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. (**Report detailing what the owner puts in, takes out, & has left**)
 
-38. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. (**Think: linear depreciation with a slope = 1.**)
+38. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. (**Think: linear depreciation with a slope = -1.**)
 
 39. *Temporary Account*: Accounts only used during an accounting period to summarize income and expenses, closing to zero at the end (**cost of goods sold, revenue**, etc). 
 

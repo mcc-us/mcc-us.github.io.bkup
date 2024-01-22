@@ -5,7 +5,7 @@ tags: reporting
 ---
 
 {: .box-success}
-Think: **Revenue & Expenses -> Net Income/Loss**   
+**Revenue & Expenses -> Net Income**   
 
 Step 1: **Obtain Revenue & Expense accounts**     
 Step 2: Use 3 column worksheet, *[Act, Amount, Total]*  
@@ -13,7 +13,7 @@ Step 3: List Revenues & total
 Step 4: List Expenses & total    
 Step 5: Calculate Net & double underline bottom line   
 
-The **Income Statement** is needed for **Net Income/Loss in Equity calculations**.
+The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.
 
 ![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
 

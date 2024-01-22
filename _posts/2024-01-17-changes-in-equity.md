@@ -4,20 +4,21 @@ title: 2-changes-in-equity
 tags: reporting
 ---
 
-The **Changes in Equity Statement** is needed for **Total Equity in Balance Sheet**.
-
 {: .box-success}
-Think: **Capital, Common Shares, Income, Dividends, Retained Earnings & Withdrawls**
+Include: **Capital, Common Shares, Income, Dividends, Retained Earnings & Withdrawls**
+
+The **Changes in Equity Statement** is needed for **Total Equity in Balance Sheet**.
 
 {: .box-warning}
 NEED Income statement: **Net Income**  
   
-1. Set-up 4 column worksheet  
-2. ADD: Capital + Common Shares at beginning of period  
-3. ADD: Retained Earning at beginning of period  
-4.  +/- Net Income/Losses  
-5.  +/- Common shares bought/sold  
-6. SUBTRACT: Dividends & Withdrawls  
+1. Include: **Capital, Common Shares, Dividends, Retained Earnings & Withdrawls**
+2. Set-up 4 column worksheet  
+3. ADD: Capital + Common Shares at beginning of period  
+4. ADD: Retained Earning at beginning of period  
+5.  +/- Net Income/Losses  
+6.  +/- Common shares bought/sold  
+7. SUBTRACT: Dividends & Withdrawls  
 
 ![Example Income Statement](/assets/tony-bell/equity.numbers.png)
 

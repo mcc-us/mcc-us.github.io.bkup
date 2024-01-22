@@ -5,7 +5,7 @@ tags: reporting
 ---
 
 {: .box-success}
-Think: **Revenue & Expenses** to calculate Net Income/Loss
+Think: **Revenue & Expenses -> Net Income/Loss**   
 
 Step 1: **Obtain Revenue & Expense accounts**     
 Step 2: Use 3 column worksheet, *[Act, Amount, Total]*  

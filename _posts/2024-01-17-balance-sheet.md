@@ -5,16 +5,17 @@ tags: reporting
 ---
 
 {: .box-success}
-Think: A = L + E  
+**A = L + E**  
     
 {: .box-success}
-NEED **Total Equity** from Statement of Owner's Equity   
+NEED: **Total Equity** from Statement of Owner's Equity   
   
 ![Example Income Statement](/assets/tony-bell/balance.sheet.numbers.png)   
 
 1. Prepare 6 column worksheet   
 2. Gather Current Assets & Long-term Assets  
-3. Gather Current Liabilities & Long-term Liabilities (NOT Expenses)   
+3. Gather Current Liabilities & Long-term Liabilities (NOT Expenses)  
+4. Include Equity from Statement of Equity 
 
 {: .box-warning}
 **Remember:** Reports NEED: Who, What, When  

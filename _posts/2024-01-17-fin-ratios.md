@@ -4,7 +4,7 @@ title: 4-financial-ratios
 tags: reporting
 ---
 
-3 Ratios: Currents (Assets / Liabilities), Totals (Liabilities / Assets)   
+2 Ratios: Currents (Assets / Liabilities) & Totals (Liabilities / Assets)   
  
 1. **Current Ratio** = Current Assets / Current Liabilities   
    - *Anything > 1.5 is good*   

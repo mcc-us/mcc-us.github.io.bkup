@@ -22,20 +22,20 @@ author: mcc
 navbar-links:
   Tags: "tags"
   Financial Statements: 
-    - income: "https://mcc-us.github.io/2024-01-17-income-statement/"
-    - equity: "https://mcc-us.github.io/2024-01-17-changes-in-equity/"
-    - balance sheet: "https://mcc-us.github.io/2024-01-17-balance-sheet/"
-    - ratios: "https://mcc-us.github.io/2024-01-17-fin-ratios/"
+    - income: "https://mcc-us.github.io/2024-01-17-dincome-statement/"
+    - equity: "https://mcc-us.github.io/2024-01-17-cchanges-in-equity/"
+    - balance sheet: "https://mcc-us.github.io/2024-01-17-bbalance-sheet/"
+    - ratios: "https://mcc-us.github.io/2024-01-17-afin-ratios/"
     - cheatsheet: "https://mcc-us.github.io/2024-01-16-order-of-financial-statements"
   Favorites: 
     - dear=clip: "https://mcc-us.github.io/2023-12-27-1-mnemonic/"
     - dr+cr: "https://mcc-us.github.io/2023-12-27-debit-credits-explained-youtube-1/"
+    - Glossary: "https://mcc-us.github.io/2020-01-01-glossary-accounting-terms/"
     - markdown: "https://mcc-us.github.io/2020-02-28-sample-markdown/"
   Resources:
     - McGraw Course: "https://connect.mheducation.com/connect/hmStudentCourseList.do"
     - AIPB: "https://aipb.org/"
     - NACPB: "https://www.certifiedpublicbookkeeper.org/"
-    - Glossary: "https://mcc-us.github.io/2020-01-01-glossary-accounting-terms/"
   About Me: "https://github.com/mcc-us"
 
 ################
@@ -96,7 +96,7 @@ share-links-active:
 url-pretty: "my study site"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 30
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true

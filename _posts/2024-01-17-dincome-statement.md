@@ -7,15 +7,17 @@ tags: reporting
 {: .box-success}
 **Revenue & Expenses -> Net Income**   
 
-Step 1: **Obtain Revenue & Expense accounts**     
-Step 2: Use 3 column worksheet, *[Act, Amount, Total]*  
-Step 3: List Revenues & total   
-Step 4: List Expenses & total    
-Step 5: Calculate Net & double underline bottom line   
+---
 
 The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.
 
-![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
+---
+
+Step 1: **Obtain Revenue & Expense accounts**     
+Step 2: Use 3 columns; **Act, Amount, Total** 
+Step 3: List Revenues & total   
+Step 4: List Expenses & total    
+Step 5: Calculate Net & double underline bottom line   
 
 ---
 
@@ -42,6 +44,10 @@ For the Year Ending Dec. 31, 2024
 
 {: .box-warning}
 Place Dollar signs at the top of each column and at the bottom line. Do not use dollar signs on ALL values.
+
+---
+
+![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
 
 - Find this example at Tony Bell @ accountingworkbook.com
 

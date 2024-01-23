@@ -7,7 +7,7 @@ Abbreviated definitions
 
 1. *Accounting Cycle*: **"Record, process, report"**, The cyclical process of recording, analyzing, and reporting financial transactions over a specific period.
 
-1. *Accounts*: A container that tracks specific assets, liabilities, equity, income, or expenses.
+1. *Accounts*: A "container" that tracks specific assets, liabilities, equity, income, or expenses.
 
 2. *Adjusting entries*: Fixing incomplete or inaccurate records at the end of an accounting period, ensuring the proper accounts and values are entered. (**Cleaning up the financials before reporting**)
 
@@ -17,7 +17,7 @@ Abbreviated definitions
 
 5. *Balance Ledger Form*: A balance ledger form is a two-column spreadsheet (debit and credit) that presents the balances and net changes for each account during a specific period. A ledger account form that shows the balance of the account after each entry is posted.
 
-6. *Balance sheet*: A formal report of a business’s financial assets, liabilities, and owner's equity for a specific period, (**A = L + E**)
+6. *Balance sheet*: A formal report of a business’s financial assets, liabilities, and owner's equity for a specific period, **A = L + E**
 
 7. *Book Value*: The remaining cost of an asset after factoring in accumulated depreciation. (**Think: worth after depreciation**)
 

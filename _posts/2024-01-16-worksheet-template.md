@@ -10,7 +10,7 @@ Portrait & Landscape
     <iframe src="assets/worksheets/grid.ws.landscape.pdf" 
     title="landscape-worksheet" 
     height="400" 
-    width="712" 
+    width="800" 
     allowfullscreen="true">
     </iframe>
 </div>

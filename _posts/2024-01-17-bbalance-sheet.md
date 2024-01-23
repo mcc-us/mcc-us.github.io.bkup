@@ -7,10 +7,9 @@ tags: reporting
 {: .box-success}
 **A = L + E**  
     
+    
 {: .box-note}
 NEED: **Total Equity** from Statement of Owner's Equity   
-  
-![Example Income Statement](/assets/tony-bell/balance.sheet.numbers.png)   
 
 1. Prepare 6 column worksheet   
 2. Gather Current Assets & Long-term Assets  
@@ -43,4 +42,7 @@ For the date 12/31/24
 | | | || ||
 
 ---
- 
+   
+![Example Income Statement](/assets/tony-bell/balance.sheet.numbers.png)   
+
+---

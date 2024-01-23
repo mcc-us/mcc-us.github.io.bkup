@@ -10,4 +10,6 @@ title: example-chart-of-accounts
 
 ![Example 3](/assets/misc/chart-of-accounts2.webp)
 
+![Example 4](/assets/misc/chart-of-accounts3.jpg)
+
 ---

@@ -46,6 +46,7 @@ Abbreviated definitions
     4.  Capital: Broad term referring to the funds invested in a business.
     5.  Net worth
 
+
 18. *Fair market value*: The current value of an asset or the price the asset would bring if sold on the open market
    
 19. *Financial interest*: A claim on a companies profits or assets, typically represented by ownership through shares or investments, granting rights to dividends, voting power, and potential capital appreciation. **Think: An economic stake in a company**, expecting financial rewards.

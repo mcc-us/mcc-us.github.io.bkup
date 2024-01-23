@@ -9,7 +9,7 @@ Abbreviated definitions
 
 1. *Accounts*: A container that tracks specific assets, liabilities, equity, income, or expenses.
 
-2. *Adjusting entries*: Fixing incomplete or inaccurate records at the end of an accounting period, ensuring the proper accounts and values are entered. (**"Cleaning up the financials before reporting**)
+2. *Adjusting entries*: Fixing incomplete or inaccurate records at the end of an accounting period, ensuring the proper accounts and values are entered. (**Cleaning up the financials before reporting**)
 
 3. *Adjustment*: A change made to an account that reflects its true, or updated balances at the end of a period. (**"updates to keep things accurate"**)
 

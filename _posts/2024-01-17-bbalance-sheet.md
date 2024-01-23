@@ -7,7 +7,7 @@ tags: reporting
 {: .box-success}
 **A = L + E**  
     
-{: .box-success}
+{: .box-note}
 NEED: **Total Equity** from Statement of Owner's Equity   
   
 ![Example Income Statement](/assets/tony-bell/balance.sheet.numbers.png)   

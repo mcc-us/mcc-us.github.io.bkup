@@ -13,11 +13,11 @@ Abbreviated definitions
 
 3. *Adjustment*: A change made to an account that reflects its true, or updated balances at the end of a period. (**"updates to keep things accurate"**)
 
-4. *Audit Trail*: **"breadcrumbs leading to the source"**, A sequential chain of evidence (documents, entries) showing the origin and flow of information.
+4. *Audit Trail*: **"breadcrumbs leading to the source"**, A sequential chain of evidence (documents, entries) showing the origin and flow of information. Document numbers, check numbers, account reference numbers, dates, companies/individuals used and equipment bought or sold should be listed. 
 
-5. *Balance Ledger Form*: A two-column format listing accounts, their balances, and changes on opposite sides for achieving zero balance. (**Balancing each account**)
+5. *Balance Ledger Form*: A balance ledger form is a two-column spreadsheet (debit and credit) that presents the balances and net changes for each account during a specific period. A ledger account form that shows the balance of the account after each entry is posted.
 
-6. *Balance sheet*: A formal report of a business’s financial assets, liabilities, and owner's equity for a specific period, (**"A = L + E"**)
+6. *Balance sheet*: A formal report of a business’s financial assets, liabilities, and owner's equity for a specific period, (**A = L + E**)
 
 7. *Book Value*: The remaining cost of an asset after factoring in accumulated depreciation. (**Think: worth after depreciation**)
 
@@ -33,7 +33,7 @@ Abbreviated definitions
 
 13. *Contra Asset Account*: A contra account that reduces the balance of an asset account. (**??Think: "mini-vacuum" sucking away from another asset**)
 
-14. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry, reversing its incorrect effects. (**A "clean-up" entry to fix mistakes**)
+14. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry. (**An entry to fix mistakes**)
 
 15. *Double-declining-depreciation*: Rate is twice simple linear depreciation
 
@@ -60,8 +60,8 @@ Abbreviated definitions
 
 24. *General Journal*: The chronological record of all transactions before they are categorized and distributed to individual accounts. (**The first "bucket" for all transactions**)
 
-25. *General Ledger*: The central accounting record containing individual accounts for assets, liabilities, equity, income, and expenses. (**The master "log" for all account details**)
-
+25. *General Ledger*: The central accounting record containing individual accounts for assets, liabilities, equity, income, and expenses. **The diary of a business.**
+    
 26. *Income Statement*: aka statement of Operations, (consists of **Only Revenue and Expense accounts**)
 
 27. *Internal Control*: Policies/procedures implemented to **safeguard assets, ensure accurate financial records, and comply with laws and regulations**.
@@ -69,29 +69,33 @@ Abbreviated definitions
 28. *Journal*: A formal record of financial transactions in chronological order, typically with debits and credits for each entry. (**Record of original entry**)
 
 29. *Journalizing*: The process of analyzing and recording transactions in a journal using debits and credits according to accounting principles. (**Putting transactions into words & numbers)**
+    
+30. *List of approved suppliers*: Used as an internal control.
 
-30. *Ledger*: A collection of individual accounts with their balances and activity details, categorized from the general journal. (**Individual "containers" for each account**)
+31. *Ledger*: A collection of individual accounts categorized by function (assets, liabilities, equity, income, expenses) that records the balances and activity details of each account based on entries in the general journal. **The record of final entry**
+    
+32. *Normal Balance*: The normal balance of an account is its **increase** side.
 
-31. *Permanent Account*: Accounts with balances carried over to the next accounting period, that reflect long-term financial standing (**assets, liabilities, and equity**).
+33. *Permanent Account*: Accounts with balances carried over to the next accounting period, that reflect long-term financial standing (**assets, liabilities, and equity**).
 
-32. *Prepaid Expenses*: Expenses paid in advance, but not yet used or consumed. (**Think: paying ahead of time but still waiting to use it**)
+34. *Prepaid Expenses*: Expenses paid in advance, but not yet used or consumed. (**Think: paying ahead of time but still waiting to use it**)
 
-33. *Posting*: Transferring recorded transactions from the general journal to individual accounts in the general ledger. (**Moving X-actions from the "journal" to their specific accounts**)
+35. *Posting*: Transferring recorded transactions from the general journal to individual accounts in the general ledger. (**Posting = transferring data from a journal to a ledger.**
 
-34. *Report Form Balance Sheet*: A standardized format used to present a company's financial position at a specific point in time. (**A template for financial reports**)
+36. *Report Form Balance Sheet*: A standardized format used to present a company's financial position at a specific point in time. (**A template for financial reports**)
 
-35. *Salvage Value*: The estimated resale or scrap value of an asset at the end of its useful life, usually after depreciation. (**Think: Scrap value**)
+37. *Salvage Value*: The estimated resale or scrap value of an asset at the end of its useful life, usually after depreciation. (**Scrap value**)
 
-36. *Slide*: An accidental **movement of a decimal point**.
+38. *Slide*: An accidental **movement of a decimal point**.
 
-37. *Statement of Owner’s Equity:* A financial statement summarizing changes in owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. (**Report detailing what the owner puts in, takes out, & has left**)
+39. *Statement of Owner’s Equity:* A financial statement summarizing changes in owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. (**Report detailing what the owner puts in, takes out, & has left**)
 
-38. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. (**Think: linear depreciation with a slope = -1.**)
+40. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. (**Linear depreciation with a slope = -1.**)
 
-39. *Temporary Account*: Accounts only used during an accounting period to summarize income and expenses, closing to zero at the end (**cost of goods sold, revenue**, etc). 
+41. *Temporary Account*: Accounts only used during an accounting period to summarize income and expenses, closing to zero at the end (**Cost of goods sold, revenue**, etc). 
 
-40. *Transposition*: Accidentally **switching the order of digits** in a number.
+42. *Transposition*: Accidentally **Switching the order of digits** in a number.
 
-41. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits must equal Credits**. 
+43. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits must equal Credits**. 
 
 ---

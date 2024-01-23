@@ -7,7 +7,14 @@ Numbering & delination of COA
 
 COA's should be printable and easy to reference bc it may be used often. Small businesses may have 250.
 
-**Commonly numbered:**
+**Typically, chart of accounts have 5 categories:**
+1. Assets
+2. Liabilities
+3. Equity
+4. Revenue
+5. Expenses
+
+**Sometimes numbered:**
 
 | Range | Account Type | Category or Financial Report |
 |-:|:-|-:|
@@ -20,12 +27,7 @@ COA's should be printable and easy to reference bc it may be used often. Small b
 | 700 – 799 | Taxes Paid | Profit & Loss |
 | 800 – 899 | Other Expenses | Profit & Loss |
 
-**Typically, chart of accounts have 5 categories:**
-1. Asset accounts
-2. Liability accounts
-3. Equity
-4. Income/Revenue accounts
-5. Expense accounts
+
 
 
 - Asset accounts include:

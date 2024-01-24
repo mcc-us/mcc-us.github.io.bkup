@@ -14,13 +14,15 @@ Helpful video: [@AccountingStuff](https://www.youtube.com/watch?v=VhwZ9t2b3Zk)
 
 ---
 
-#### *DEAR CLIP*: Use this nmemonic to help classify debits and credits.:
+### *DEAR = CLIP*
    
 **D**rawings + **E**xpenses + **A**ssets + **R**eceivables = **C**apital + **L**iabilities +  **I**ncome + **P**ayables
 
 | Debits: <br> Accounts on Left |=| Credits: <br> Accounts on Right |
 |:----------|-|:-|
 | **D**rawings + <br> **E**xpenses + <br> **A**ssets + <br> **R**eceivables |=| **C**apital + <br> **L**iabilities + <br> **I**ncome + <br> **P**ayables |
+
+---
 
 - **LEFT-RIGHT RULES**
 

@@ -6,7 +6,7 @@ tags: drcr
 
 Helpful video: [@AccountingStuff](https://www.youtube.com/watch?v=VhwZ9t2b3Zk)
 
-![Cedit=Destination Debit=Source](/assets/mc-graw-accounting-course/images/debit-destination-credit-source.png)
+![Cedit=Destination Debit=Source](/assets/mc-graw-accounting-course/debit-destination-credit-source.png)
 
 - **DEBITS** represent the flow of economic benefit **To A Destination**
 

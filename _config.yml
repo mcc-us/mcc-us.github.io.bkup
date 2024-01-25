@@ -28,11 +28,11 @@ navbar-links:
     - ratios: "https://mcc-us.github.io/2024-01-17-afin-ratios/"
     - cheatsheet: "https://mcc-us.github.io/2024-01-16-order-of-financial-statements"
   Favorites: 
+    - debit/credit: "https://mcc-us.github.io/2023-12-27-youtube-debit-credits-explained/"
+    - glossary: "https://mcc-us.github.io/2020-01-01-glossary-accounting-terms/"
+    - markdown: "https://mcc-us.github.io/2020-02-28-sample-markdown/"
     - dear=clip: "https://mcc-us.github.io/2023-12-27-1-mnemonic/"
     - worksheets: "https://mcc-us.github.io/2024-01-16-worksheet-template/"
-    - dr+cr: "https://mcc-us.github.io/2023-12-27-debit-credits-explained-youtube-1/"
-    - Glossary: "https://mcc-us.github.io/2020-01-01-glossary-accounting-terms/"
-    - markdown: "https://mcc-us.github.io/2020-02-28-sample-markdown/"
   Resources:
     - McGraw Course: "https://connect.mheducation.com/connect/hmStudentCourseList.do"
     - AIPB: "https://aipb.org/"

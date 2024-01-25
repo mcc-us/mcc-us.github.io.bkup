@@ -6,9 +6,9 @@ tags: drcr
 
 ![Cedit=Destination Debit=Source](/assets/mc-graw-accounting-course/debit-destination-credit-source.png)
 
-- **DEBITS** represent the flow of economic benefit **To A Destination**
+- **DEBITS** represent the flow of funds **To A Destination**
 
-- **CREDITS** represent the flow of economic benefit **From A Source**
+- **CREDITS** represent the flow of funds **From A Source**
 
 ---
 

@@ -20,8 +20,6 @@ NEED Income statement: **Net Income**
 6.  +/- Common shares bought/sold  
 7. SUBTRACT: Dividends & Withdrawls  
 
-![Example Income Statement](/assets/tony-bell/equity.numbers.png)
-
 **Prepare a statement of changes in equity for the year ended December 31, 2024.**
 
 ---
@@ -40,6 +38,8 @@ NEED Income statement: **Net Income**
 |               |               |                  |         |
 
 ---
+
+![Example Income Statement](/assets/tony-bell/equity.numbers.png)
 
 **Alternative Names**:
 

@@ -6,10 +6,7 @@ tags: reporting
 
 {: .box-success}
 **A = L + E**  
-    
-    
-{: .box-note}
-NEED: **Total Equity** from Statement of Owner's Equity   
+Use: Total Equity from Statement of Equity   
 
 1. Prepare 6 column worksheet   
 2. Gather Current Assets & Long-term Assets  

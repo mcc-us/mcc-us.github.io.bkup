@@ -4,7 +4,7 @@ title: youtube-explains-debit-credits
 tags: drcr
 ---
 
-![Cedit=Destination Debit=Source](/assets/mc-graw-accounting-course/debit-destination-credit-source.png)
+![Cedit=Destination, Debit=Source](/assets/mc-graw-accounting-course/debit-destination-credit-source.png)
 
 - **DEBITS** represent the flow of funds **To A Destination**
 

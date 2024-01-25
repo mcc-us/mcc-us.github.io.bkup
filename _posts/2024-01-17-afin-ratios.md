@@ -19,5 +19,5 @@ tags: reporting
 1. **Equity Ratio** = Total S.E. / Total Assets   
    
    - *Present as %* 
-   -  Equity ratio = 1 - Debt ratio 
+   - Equity ratio = 1 - Debt ratio 
 ---

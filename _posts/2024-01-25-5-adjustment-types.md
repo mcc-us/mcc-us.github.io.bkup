@@ -30,7 +30,7 @@ Table of examples
 ### Adjustment Type
 
 |  | Account Debited | Account Credited | Description | Example |
-|----------------:|----------------:|-----------------:|------------:|--------:|
+|:---------------|:---------------|:----------------|:-----------|:-------|
 | Accrued Revenues | Revenue<br>(ex. Service Revenue) | Accrued Revenue (Asset) | Recognizes revenue earned but not yet received in cash. | Record $500 of earned consulting fees not yet billed. |
 | Accrued Expenses | Expense<br>(ex. Utilities Expense) | Accrued Expense (Liability) | Recognizes expenses incurred but not yet paid. | Record $200 of accrued utility expense for the month. |
 | Prepaid Expenses | Prepaid Expense (asset) | Expense<br>(ex. Rent Expense) | Recognizes expenses paid in advance that are now used up. | Record $1,000 of prepaid rent expense now used up. |

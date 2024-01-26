@@ -21,11 +21,11 @@ Table of examples
 
 | Type | Setup | Adjustment |
 |:-----|:------|:-----------|
-| Prepaid exp.| Debit: Prepaid (asset) x<br> ..Credit cash x| Debit: Act exp. x<br> ..Credit Pre-paid Asset x |
-| Depreciation exp. | Debit: LT Asset  x<br> Credit cash x| Debit: Depreciation exp. x<br> ..A-D (Asset) x|
-| Accrued exp. | |  Debit: Act exp. x<br> ..Act payable x|
-| Accrued rev. | |  Debit: Act receivable x<br> .. __ rev. x|
-| Unearned rev. | |  Debit: Unearned rev. x<br> ..__ rev. x x|
+| Prepaid exp/asset | Debit: Pre-paid (asset)<br> ..Credit cash| Debit: Act exp.<br> ..Credit Pre-paid Asset|
+| Depreciation exp. | Debit: LT Asset<br> Credit cash| Debit: Depreciation exp.<br> ..A-D (Asset)|
+| Accrued exp. | |  Debit: Act exp.<br> ..Act payable|
+| Accrued rev. | |  Debit: Act receivable<br> .. __ rev.|
+| Unearned rev. | |  Debit: Unearned rev.<br> ..__ rev.|
 
 ### Adjustment Type
 

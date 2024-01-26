@@ -23,8 +23,8 @@ Table of examples
 | Type | Setup | Adjustment |
 |:-----|:------|:-----------|
 | Prepaid exp/asset | Dr: Pre-paid (asset)<br> ..Cr: cash| Dr: Act exp.<br> ..Cr: Pre-paid (asset)|
-| Depreciation exp. | Dr: LT (asset)<br> ..Cr: cash| Dr: Depreciation exp.<br> ..Asset-Depre.|
-| Accrued exp. | |  Dr: Act exp.<br> ..Cr:Act payable|
+| Depreciation exp. | Dr: LT (asset)<br> ..Cr: cash| Dr: Depreciation exp.<br> ..Cr: Asset-Depre.|
+| Accrued exp. | |  Dr: Act exp.<br> ..Cr: Act payable|
 | Accrued rev. | |  Dr: Act receivable<br> ..Cr: Act rev.|
 | Unearned rev. | |  Dr: Unearned rev.<br> ..Cr: Act rev.|
 

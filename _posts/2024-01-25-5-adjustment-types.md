@@ -42,15 +42,16 @@ Table of examples
 
 Five common types of adjustments can vary depending on the business. 
 
-1. Accrued Revenues: These adjustments recognize revenue earned but not yet recorded because cash hasn't been received. 
+
+1. Prepaid Expenses/Assets: These adjustments recognize expenses paid in advance but not yet consumed or used. Because these expenses are bought ahead of use they are considered **assets**.
+
+1. Depreciation: This adjustment allocates the cost of an asset over its useful life as an expense. It ensures the asset's cost isn't recognized all at once but gradually spread over the period it benefits the business, as the asset is being used.
 
 2. Accrued Expenses: These adjustments recognize expenses incurred but not yet paid, resulting in a liability. 
 
-3. Prepaid Expenses: These adjustments recognize expenses paid in advance but not yet consumed or used. 
+1. Accrued Revenues: These adjustments recognize revenue earned but not yet recorded because cash hasn't been received. 
 
-4. Depreciation: This adjustment allocates the cost of an asset over its useful life as an expense. It ensures the asset's cost isn't recognized all at once but gradually spread over the period it benefits the business.
-
-5. Deferred Revenues: These adjustments recognize cash received in advance for services you haven't yet provided. For example, if you receive a subscription payment in December for January access, you'd need to defer the revenue in December and record a deferred revenue liability.
+1. Deferred Revenues: These adjustments recognize cash received in advance for services you haven't yet provided. For example, if you receive a subscription payment in December for January access, you'd need to defer the revenue in December and record a deferred revenue liability.
 
 
 [FA14 - Adjusting Journal Entries EXAMPLES-Tony Bell](https://www.youtube.com/watch?v=gkqoIqeiCsU)

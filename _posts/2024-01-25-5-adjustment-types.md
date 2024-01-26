@@ -4,7 +4,7 @@ title: 5-Adjusting Journal Entries
 tags: adjustments
 ---
 
-### 5 types of adjustments enties
+### 5 types of adjustments entries
 
 1. Prepaid exp.
 
@@ -16,20 +16,21 @@ tags: adjustments
 
 5. Unearned rev.
 
+---
 
 Table of examples
 
 | Type | Setup | Adjustment |
 |:-----|:------|:-----------|
-| Prepaid exp/asset | Debit: Pre-paid (asset)<br> ..Credit cash| Debit: Act exp.<br> ..Credit Pre-paid Asset|
-| Depreciation exp. | Debit: LT Asset<br> ..Credit cash| Debit: Depreciation exp.<br> ..A-D (Asset)|
-| Accrued exp. | |  Debit: Act exp.<br> ..Act payable|
-| Accrued rev. | |  Debit: Act receivable<br> ..__ rev.|
-| Unearned rev. | |  Debit: Unearned rev.<br> ..__ rev.|
+| Prepaid exp/asset | Dr: Pre-paid (asset)<br> ..Cr cash| D: Act exp.<br> ..Cr Pre-paid Asset|
+| Depreciation exp. | Dr: LT Asset<br> ..Cr cash| Dr: Depreciation exp.<br> ..A-D (Asset)|
+| Accrued exp. | |  Dr: Act exp.<br> ..Act payable|
+| Accrued rev. | |  Dr: Act receivable<br> ..__ rev.|
+| Unearned rev. | |  Dr: Unearned rev.<br> ..__ rev.|
 
 ### Adjustment Type
 
-| Type | Account Debited | Account Credited | Description | Example |
+| Type | Account Debited | Account Cred | Description | Example |
 |:-----|:----------------|:-----------------|:------------|:--------|
 | Prepaid Exp. | Pre-paid Expense (asset) | Expense<br>(ex. Rent Expense) | Recognizes expenses paid in advance that are now used up. | Record $1,000 of prepaid rent expense now used up. |
 | Depreciation Exp. | Depreciation Expense | Accumulated Depreciation (contra asset)	Allocates the cost of an asset over its useful life. | Record $500 of depreciation expense for a piece of equipment. |

@@ -14,7 +14,7 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 ---
 
 Step 1: **Obtain Revenue & Expense accounts**     
-Step 2: Use 3 columns; **Act, Amount, Total** 
+Step 2: Use 3 columns; **Act, Amount, Total**   
 Step 3: List Revenues & total   
 Step 4: List Expenses & total    
 Step 5: Calculate Net & double underline bottom line   

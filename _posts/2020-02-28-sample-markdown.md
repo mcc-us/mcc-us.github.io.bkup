@@ -4,7 +4,7 @@ title: using markdown
 tags: markdown
 ---
 
-Tables:
+### Tables:
 
 ~~~
 | nameA | nameB | nameC |
@@ -14,6 +14,10 @@ Tables:
 | 3     | A3    | B3    |
 | 4     | A4    | B4    |
 ~~~
+
+### Add non-breaking space: 
+
+- `&nbsp;`
 
 ## Boxes
 You can add notification, warning and error boxes like this:

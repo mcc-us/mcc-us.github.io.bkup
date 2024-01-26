@@ -22,21 +22,21 @@ Table of examples
 
 | Type | Setup | Adjustment |
 |:-----|:------|:-----------|
-| Prepaid exp/asset | Dr: Pre-paid (Asset)<br> ..Cr: cash| Dr: Act exp.<br> ..Cr: Pre-paid (asset)|
-| Depreciation exp. | Dr: LT (asset)<br> ..Cr: cash| Dr: Depreciation exp.<br> ..Cr: Asset-Depre.|
-| Accrued exp. | |  Dr: Act exp.<br> ..Cr: Act payable|
-| Accrued rev. | |  Dr: Act receivable<br> ..Cr: Act rev.|
-| Unearned rev. | |  Dr: Unearned rev.<br> ..Cr: Act rev.|
+| Pre-paid expense/asset | pre-paid (asset)<br>&nbsp;&nbsp;cash| Act expense<br>&nbsp;&nbsp;pre-paid (asset)|
+| Depreciation expense | LT (asset) Act<br>&nbsp;&nbsp;cash| Depreciation expense<br>&nbsp;&nbsp;Asset-Depre.|
+| Accrued expense | | Act expense<br>&nbsp;&nbsp;Act payable|
+| Accrued revenue | | Act receivable<br>&nbsp;&nbsp;Act revenue|
+| Unearned revenue | | Unearned revenue<br>&nbsp;&nbsp;Act revenue|
 
 ### Adjustment Type
 
 | Type | Account Debited | Account Credit | Description | Example |
 |:-----|:----------------|:-----------------|:------------|:--------|
 | Prepaid Exp. | Pre-paid Expense (asset) | Expense | Recognizes expenses paid in advance that are now used up. | Record $1,000 of prepaid rent expense now used up. |
-| Depreciation Exp. | Depreciation Expense | Accumulated Depreciation<br>(Contra-Asset) | Allocates the cost of an asset over its useful life. | Record $500 of depreciation expense for a piece of equipment. |
-| Accrued Exp. | Expense | Accrued Expense (Liability) | Recognizes expenses incurred but not yet paid. | Record $200 of accrued utility expense for the month. |
-| Accrued Rev. | Revenue | Accrued Revenue (Asset) | Recognizes revenue earned but not yet received in cash. | Record $500 of earned consulting fees not yet billed. |
-| Deferred Rev. | Deferred Revenue (Liability) | Revenue | Recognizes cash received in advance for services not yet provided. | Record $300 of deferred subscription revenue now earned. |
+| Depreciation Exp. | Depreciation Expense | Accumulated Depreciation<br>(contra-asset) | Allocates the cost of an asset over its useful life. | Record $500 of depreciation expense for a piece of equipment. |
+| Accrued Exp. | Expense | Accrued Expense (liability) | Recognizes expenses incurred but not yet paid. | Record $200 of accrued utility expense for the month. |
+| Accrued Rev. | Revenue | Accrued Revenue (asset) | Recognizes revenue earned but not yet received in cash. | Record $500 of earned consulting fees not yet billed. |
+| Deferred Rev. | Deferred Revenue (liability) | Revenue | Recognizes cash received in advance for services not yet provided. | Record $300 of deferred subscription revenue now earned. |
 
 
 ---

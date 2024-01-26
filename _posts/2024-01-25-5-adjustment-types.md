@@ -4,31 +4,28 @@ title: 5-Adjusting Journal Entries
 tags: adjustments
 ---
 
-5 types of adjustments enties
+### 5 types of adjustments enties
 
-(FA14 - Adjusting Journal Entries EXAMPLES-Tony Bell)[https://www.youtube.com/watch?v=gkqoIqeiCsU]
+1. Prepaid exp.
 
+2. Depreciation exp.
 
-1. prepaid exp(assets)
+3. Accrued exp.
 
-2. depreciation
+4. Accrued rev.
 
-3. accrued exp.
-
-4. accrued rev.
-
-5. unearned revenues
+5. Unearned rev.
 
 
 Table of examples
 
 | Type | Setup | Adjustment |
-|-----:|------:|-----------:|
-| prepaid exp(assets)| Debit: Prepaid (asset) #<br>~Credit cash #| Debit: Act exp.|
-| depreciation exp | | |
-| accrued exp. | | |
-| accrued rev. | | |
-| unearned revenues | | |
+|-----:|:------|-----------:|
+| Prepaid exp.| Debit: Prepaid (asset) x<br> Credit cash x| Debit: Act exp. |
+| Depreciation exp. | Debit: LT Asset  x<br> Credit cash x| Depreciation exp. |
+| Accrued exp. | | |
+| Accrued rev. | | |
+| Unearned rev. | | |
 
 ### Adjustment Type
 
@@ -54,3 +51,8 @@ Five common types of adjustments can vary depending on the business.
 4. Depreciation: This adjustment allocates the cost of an asset over its useful life as an expense. It ensures the asset's cost isn't recognized all at once but gradually spread over the period it benefits the business.
 
 5. Deferred Revenues: These adjustments recognize cash received in advance for services you haven't yet provided. For example, if you receive a subscription payment in December for January access, you'd need to defer the revenue in December and record a deferred revenue liability.
+
+
+[FA14 - Adjusting Journal Entries EXAMPLES-Tony Bell](https://www.youtube.com/watch?v=gkqoIqeiCsU)
+
+---

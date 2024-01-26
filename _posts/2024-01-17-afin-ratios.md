@@ -8,7 +8,7 @@ tags: reporting
  
 1. **Current Ratio** = Current Assets / Current Liabilities   
    
-   - *Anything > 1.5 is good*   
+   - *Ratio > 1.5 is good*   
 <br>
 
 1. **Debt Ratio** = Total Liabilities / Total Assets 

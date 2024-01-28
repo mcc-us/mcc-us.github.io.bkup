@@ -10,28 +10,37 @@ TB - List all accounts in order: **A, L, O(wners Equity), Rev, Exp**<br>&nbsp;&n
 
 ---
 
-Trial balances promote accuracy, identify potential issues, facilitate financial statement preparation, and serve as an internal control.
+Trial balances promote accuracy, identify potential issues, facilitate financial statement preparation, and serve as an internal control.   
 
+1. Enter the general ledger account names.   
 
-1. Enter the ending balance of each account in the appropriate Debit or Credit column.
+2. Enter the ending balance of each account in either Debit or Credit column.   
 
-2. Total the Debit (left) column.
+3. Total the Debit and Credit columns to prove that the trial balance is in balance.   
 
-3. Total the Credit (right) column.
+4. Compare the total debits with the total credits, **Net differences between debits & credits.**   
 
-4. Compare the total debits with the total credits, **Net differences between debits & credits.**
+5. Double underscore under each Trial Balance column to show that the work in that column is complete.   
+
+#### Notice that the trial balance has four new accounts:   
+
+1. Accumulated Depreciation—Equipment,  
+2. Supplies Expense,   
+3. Rent Expense,    
+4. Depreciation Expense—Equipment.   
+
 
 ### Rules for Presentation:
 
 1. Balance sheet assets are arranged on the bases of liquidity. 
-  - Cash always appears first followed by marketable securities, accounts receivable, supplies, inventory, prepaid items then fixed assets (which appear in the order of longevity).
+  - Cash always appears first followed by marketable securities, accounts receivable, supplies, inventory, prepaid items then fixed assets (which appear in the order of longevity).   
 
-For example, store equipment, office equipment, buildings and land would appear in the order presented under fixed assets. 
+For example, store equipment, office equipment, buildings and land would appear in the order presented under fixed assets.   
 
-2. Liability accounts appear based on their earliest due date. 
-  - Consequently A/P always appear first followed by notes payable and mortgages payable. 
+2. Liability accounts appear based on their earliest due date.   
+  - Consequently A/P always appear first followed by notes payable and mortgages payable.   
 
-3. Income statement accounts, both revenues and expenses appear in alphabetical order.
+3. Income statement accounts, both revenues and expenses appear in alphabetical order.   
 
 ---
 

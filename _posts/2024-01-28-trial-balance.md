@@ -1,20 +1,35 @@
 ---
 layout: post
 title: trial-balances
-tags: 
+tags: reporting
 ---
-
-{: .box-success}
-TB - List all accounts in order: **A, L, O(wners Equity), Rev, Exp** then check for equal balances
-
----
-
-Trial balances are a valuable tool at various stages of the accounting process. They promotes accuracy, identify potential issues, facilitate financial statement preparation, and serve as an internal control.
-
 {: .box-warning}
 Reporting NEEDS **Who, What, When: Time Period**
 
+{: .box-success}
+TB - List all accounts in order: **A, L, O(wners Equity), Rev, Exp**<br>then check for equal balances
+
 ---
+
+Trial balances are a valuable tool in the accounting process. They promote accuracy, identify potential issues, facilitate financial statement preparation, and serve as an internal control.
+
+
+1. Enter the ending balance of each account in the appropriate Debit or Credit column.
+
+2. Total the Debit (left) column.
+
+3. Total the Credit (right) column.
+
+4. Compare the total debits with the total credits, **Net differences between debits & credits.**
+
+{: .box-warning}
+REMEMBER: Debits = Credits for Trial Balance
+
+
+---
+
+{: .box-warning}
+Reporting NEEDS **Who, What, When: Time Period**
 
 Company Name   
 Income Statement   
@@ -38,18 +53,6 @@ For the Year Ending Dec. 31, 2024
 | Exp. | Salaries Exp. |   | 1000 |
 | Exp. | Totals | 7,650 | 7,650 |
 | Exp. | **Debits must equal Credits** | | **DOUBLE UNDERLINE** |
-
-
-3. Enter the ending balance of each account in the appropriate Debit or Credit column.
-
-4. Total the Debit (left) column.
-
-5. Total the Credit (right) column.
-
-6. Compare the total debits with the total credits, **Net differences between debits & credits.**
-
-{: .box-warning}
-REMEMBER: Debits = Credits for Trial Balance
 
 ---
 

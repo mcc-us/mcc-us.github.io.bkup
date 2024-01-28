@@ -12,6 +12,8 @@ TB - List all accounts in order: **A, L, O(wners Equity), Rev, Exp**<br>&nbsp;&n
 
 Trial balances promote accuracy, identify potential issues, facilitate financial statement preparation, and serve as an internal control.   
 
+### Steps
+
 1. Enter the general ledger account names.   
 
 2. Enter the ending balance of each account in either Debit or Credit column.   
@@ -22,7 +24,7 @@ Trial balances promote accuracy, identify potential issues, facilitate financial
 
 5. Double underscore under each Trial Balance column to show that the work in that column is complete.   
 
-#### Notice that the trial balance has four new accounts:   
+### Notice that the trial balance has four new accounts:   
 
 1. Accumulated Depreciation—Equipment,  
 2. Supplies Expense,   
@@ -77,7 +79,7 @@ For the Year Ending Dec. 31, 2024
 
 ---
 
-Here are some key benefits it offers:
+### Key benefits it offers:
 
 1. Verifies Accuracy: The fundamental purpose of a trial balance is to check for mathematical errors in your accounting records. By ensuring the total debits equal the total credits, you gain confidence that the basic recording of transactions is correct. This saves time and effort compared to manually rechecking every entry.
 

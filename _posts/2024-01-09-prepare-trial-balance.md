@@ -1,13 +1,14 @@
 ---
 layout: post
-title: preparing-trial-balances
+title: prepare-trial-balances
 tags: 
 ---
 
-TB - Simply lists all accounts in order: A, L, SE, Rev, Exp and check for equal balances
-
-
 {: .box-success}
+TB - List all accounts in order: **A, L, SE, Rev, Exp** then check for equal balances
+
+
+{: .box-warning}
 Reporting NEEDS **Who, What, When: Time Period**
 
 
@@ -16,23 +17,23 @@ Income Statement
 For the Year Ending Dec. 31, 2024
 
 
-| Act | Debit | Credit |
-|:---|-------:|------:|
-| Cash | $950 | |
-| Supplies | 200 |  |
-| A/R | 0 | |
-| Equipment | 4,000 | |
-| A/P |  | $400 |
-| Bank Loan Payable |  | 5,000 |
-| Common Shares | | 1,000 |
-| Retained Earnings |  30,000 | |
+| Assets | Act | Debit | Credit |
+|-|:---|-------:|------:|
+| Assets | Cash | $950 | |
+| Assets | Supplies | 200 |  |
+| Assets | A/R | 0 | |
+| Assets | Equipment | 4,000 | |
+| Liability | A/P |  | $400 |
+| Liability | Bank Loan Payable |  | 5,000 |
+| Equity | Common Shares | | 1,000 |
+| Equity | Retained Earnings |  30,000 | |
 | Dividends | | 0 |
-| Revenue |  | 1250 |
-| Rent Exp. |   | 600 |
-| Tele Exp. |   | 400 |
-| Salaries Exp. |   | 1000 |
-| Totals | 7,650 | 7,650 |
-| **Debits must equal Credits** | | **DOUBLE UNDERLINE** |
+| Revenue | Fees |  | 1250 |
+| Exp. | Rent Exp. |   | 600 |
+| Exp. | Tele Exp. |   | 400 |
+| Exp. | Salaries Exp. |   | 1000 |
+| Exp. | Totals | 7,650 | 7,650 |
+| Exp. | **Debits must equal Credits** | | **DOUBLE UNDERLINE** |
 
 
 3. Enter the ending balance of each account in the appropriate Debit or Credit column.

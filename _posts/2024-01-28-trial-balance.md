@@ -3,15 +3,14 @@ layout: post
 title: trial-balances
 tags: reporting
 ---
-{: .box-warning}
-Reporting NEEDS **Who, What, When: Time Period**
+
 
 {: .box-success}
-TB - List all accounts in order: **A, L, O(wners Equity), Rev, Exp**<br>then check for equal balances
+TB - List all accounts in order: **A, L, O(wners Equity), Rev, Exp**<br>&nbsp;&nbsp;then check for equal balances.
 
 ---
 
-Trial balances are a valuable tool in the accounting process. They promote accuracy, identify potential issues, facilitate financial statement preparation, and serve as an internal control.
+Trial balances promote accuracy, identify potential issues, facilitate financial statement preparation, and serve as an internal control.
 
 
 1. Enter the ending balance of each account in the appropriate Debit or Credit column.
@@ -22,9 +21,22 @@ Trial balances are a valuable tool in the accounting process. They promote accur
 
 4. Compare the total debits with the total credits, **Net differences between debits & credits.**
 
+### Rules for Presentation:
+
+1. Balance sheet assets are arranged on the bases of liquidity. 
+  - Cash always appears first followed by marketable securities, accounts receivable, supplies, inventory, prepaid items then fixed assets (which appear in the order of longevity).
+
+For example, store equipment, office equipment, buildings and land would appear in the order presented under fixed assets. 
+
+2. Liability accounts appear based on their earliest due date. 
+  - Consequently A/P always appear first followed by notes payable and mortgages payable. 
+
+3. Income statement accounts, both revenues and expenses appear in alphabetical order.
+
+---
+
 {: .box-warning}
 REMEMBER: Debits = Credits for Trial Balance
-
 
 ---
 

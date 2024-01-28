@@ -25,17 +25,17 @@ Abbreviated definitions
 
 9.  *Chart of Accounts*: A master list of all accounts used by a company, organized by category and code for easy reference.
 
-10. *Classification*: Grouping transactions into relevant accounts
+10. *Classification*: Grouping transactions into relevant accounts.
 
 11. *Compound Entry*: A single journal entry affecting multiple accounts, usually with both debits and credits. (**One entry, multiple impacts**)
 
-12. *Contra Account*: An account with a balance that reduces the balance of another account, often related to assets and liabilities.
+12. *Contra Account*: An account with a normal balance that is opposite that of a related account.
 
 13. *Contra Asset Account*: A contra account that reduces the balance of an asset account. (**??Think: "mini-vacuum" sucking away from another asset**)
 
 14. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry. (**An entry to fix mistakes**)
 
-15. *Double-declining-depreciation*: Rate is twice simple linear depreciation
+15. *Double-declining-depreciation*: Rate is twice simple linear depreciation.
 
 16. *Drawing Account*: An account used to record owner withdrawals from the business, reducing their equity.
 
@@ -83,7 +83,7 @@ Abbreviated definitions
 
 35. *Posting*: Transferring recorded transactions from the general journal to individual accounts in the general ledger. (**Posting = transferring data from a journal to a ledger.**
 
-36. *Report Form Balance Sheet*: A standardized format used to present a company's financial position at a specific point in time. (**A template for financial reports**)
+36. *Report Form Balance Sheet*: A standard template for financial reports, that lists the asset accounts first, followed by liabilities and owner’s equity.
 
 37. *Salvage Value*: The estimated resale or scrap value of an asset at the end of its useful life, usually after depreciation. (**Scrap value**)
 
@@ -97,6 +97,6 @@ Abbreviated definitions
 
 42. *Transposition*: Accidentally **Switching the order of digits** in a number.
 
-43. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits must equal Credits**. 
+43. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits MUST EQUAL Credits**. 
 
 ---

@@ -1,16 +1,20 @@
 ---
 layout: post
-title: prepare-trial-balances
+title: trial-balances
 tags: 
 ---
 
 {: .box-success}
-TB - List all accounts in order: **A, L, SE, Rev, Exp** then check for equal balances
+TB - List all accounts in order: **A, L, O(wners Equity), Rev, Exp** then check for equal balances
 
+---
+
+Trial balances are a valuable tool at various stages of the accounting process. They promotes accuracy, identify potential issues, facilitate financial statement preparation, and serve as an internal control.
 
 {: .box-warning}
 Reporting NEEDS **Who, What, When: Time Period**
 
+---
 
 Company Name   
 Income Statement   
@@ -27,7 +31,7 @@ For the Year Ending Dec. 31, 2024
 | Liability | Bank Loan Payable |  | 5,000 |
 | Equity | Common Shares | | 1,000 |
 | Equity | Retained Earnings |  30,000 | |
-| Dividends | | 0 |
+|?| Dividends | | 0 |
 | Revenue | Fees |  | 1250 |
 | Exp. | Rent Exp. |   | 600 |
 | Exp. | Tele Exp. |   | 400 |

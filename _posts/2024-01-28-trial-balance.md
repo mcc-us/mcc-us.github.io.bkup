@@ -1,6 +1,6 @@
 ---
 layout: post
-title: trial-balances
+title: trial balances
 tags: reporting
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: gaap-assumptions-principles
+title: gaap assumptions principles
 tags: gaap
 ---
 

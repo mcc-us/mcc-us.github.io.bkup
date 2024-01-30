@@ -1,6 +1,6 @@
 ---
 layout: post
-title: business-types-table-test
+title: business types test
 tags: test businessTypes
 ---
 

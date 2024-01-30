@@ -1,6 +1,6 @@
 ---
 layout: post
-title: example-chart-of-accounts
+title: example chart of accounts
 ---
 
 

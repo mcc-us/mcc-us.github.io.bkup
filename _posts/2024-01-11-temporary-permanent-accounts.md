@@ -1,6 +1,6 @@
 ---
 layout: post
-title: temporary-v-permanent-accounts
+title: temporary v permanent accounts
 ---
 
 Q. Describe differences? Give 2 examples.

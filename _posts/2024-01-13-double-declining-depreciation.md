@@ -1,6 +1,6 @@
 ---
 layout: post
-title: double-declining-depreciation
+title: double declining depreciation
 tags: depreciation
 ---
 

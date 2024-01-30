@@ -1,6 +1,6 @@
 ---
 layout: post
-title: chart-of-accounts
+title: chart of accounts
 ---
 
 Numbering & delination of COA

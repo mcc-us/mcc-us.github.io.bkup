@@ -1,6 +1,6 @@
 ---
 layout: post
-title: basics-chap-1
+title: book
 tags: books
 ---
 

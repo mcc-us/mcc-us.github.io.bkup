@@ -1,6 +1,6 @@
 ---
 layout: post
-title: order-of-financial-statements
+title: order of financial statements
 tags: reporting
 ---
 

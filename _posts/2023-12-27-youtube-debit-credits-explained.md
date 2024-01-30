@@ -1,6 +1,6 @@
 ---
 layout: post
-title: youtube-explains-debit-credits
+title: youtube explains debit credits
 tags: drcr
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: trial-balance-v-balance-sheet
+title: trial balance v balance sheet
 tags: reporting
 ---
 

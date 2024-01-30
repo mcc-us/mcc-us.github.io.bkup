@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2-changes-in-equity
+title: 2 changes in equity
 tags: reporting
 ---
 

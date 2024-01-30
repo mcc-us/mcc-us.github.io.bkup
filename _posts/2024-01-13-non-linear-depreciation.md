@@ -1,6 +1,6 @@
 ---
 layout: post
-title: non-linear-depreciation
+title: non linear depreciation
 tags: depreciation
 ---
 

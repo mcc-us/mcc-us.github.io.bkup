@@ -1,6 +1,6 @@
 ---
 layout: post
-title: glossary-accounting-terms
+title: glossary accounting terms
 ---
 
 Abbreviated definitions  

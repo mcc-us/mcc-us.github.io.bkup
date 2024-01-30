@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5-Adjusting Journal Entries
+title: 5 adjusting journal entries
 tags: adjustments
 ---
 

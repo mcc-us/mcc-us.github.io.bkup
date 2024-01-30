@@ -1,6 +1,6 @@
 ---
 layout: post
-title: dr-cr-infographic
+title: dr cr infographic
 tags: drcr
 ---
 

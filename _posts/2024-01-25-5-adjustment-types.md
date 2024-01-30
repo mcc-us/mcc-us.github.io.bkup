@@ -6,15 +6,26 @@ tags: adjustments
 
 ### 5 types of adjustments entries
 
-1. Prepaid exp.
+1. **Prepaid Expense** adjustments recognize expenses paid in advance, but have yet to be consumed. Because these expenses are bought before use, they are sometimes considered **assets**. As time elapses, the asset is used. For example, an adjustment is made to reduce the asset and to recognize the rent expense.
 
-2. Depreciation exp.
+  - "Prepaid expense account" are commonly used for:
+    - Pre-paid Rent
+    - Pre-paid Insurance
+    - Pre-paid Advertising
+    - Pre-paid Supplies, etc.
 
-3. Accrued exp.
+| Type | Setup | Adjustment | Description | Example |
+|:-----|:------|:-----------|:------|:-----------|
+| Pre-paid expense/asset | pre-paid Act-asset<br>&nbsp;&nbsp;cash| Act expense<br>&nbsp;&nbsp;pre-paid Act-Asset|
+| Prepaid Exp/Asset | Pre-paid Expense (asset) | Expense | Expenses are paid in advance but may not be used up. | Auto insurance is prepaid for a yr but may not be used up by end of yr. |
 
-4. Accrued rev.
+1. Depreciation exp.
 
-5. Unearned rev.
+2. Accrued exp.
+
+3. Accrued rev.
+
+4. Unearned rev.
 
 ---
 
@@ -44,7 +55,6 @@ Table of examples
 Five common types of adjustments can vary depending on the business. 
 
 
-1. *Prepaid Expenses*: These adjustments recognize expenses paid in advance but have yet to be consumed or used. Because these expenses are bought before use, they are sometimes considered **assets**.
 
 2. *Depreciation Expenses*: This adjustment allocates the cost of an asset over its useful life as an expense. It ensures the asset's cost isn't recognized all at once but gradually spread over time. It benefits the business as the investment is being used.
 

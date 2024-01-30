@@ -1,7 +1,7 @@
 ---
 layout: post
-title: adjusting-entries-table
-tags: adjustments
+title: adjusting entries table
+tags: [adjustments, cheatsheet]
 ---
 
 ### 5 Adjustment Types

@@ -17,8 +17,8 @@ tags: adjustments
     - Pre-paid Supplies, etc.
     - For example: Auto insurance is prepaid for a yr but may not be used up by end of period/yr.
 
-| Type | Setup | Adjustment | Description | Example |
-|:-----|:------|:-----------|:------|:-----------|
+| Type | Setup | Adjustment | Description |
+|:-----|:------|:-----------|:------|
 | Pre-paid expense/asset | pre-paid Act-asset<br>&nbsp;&nbsp;cash| Act expense<br>&nbsp;&nbsp;pre-paid Act-Asset|
 | Prepaid Exp/Asset | Pre-paid Expense (asset) | Expense | Expenses are paid in advance but may not be used up. |
 

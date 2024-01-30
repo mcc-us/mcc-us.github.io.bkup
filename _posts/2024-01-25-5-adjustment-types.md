@@ -6,18 +6,21 @@ tags: adjustments
 
 ### 5 types of adjustments entries
 
-1. **Prepaid Expense** adjustments recognize expenses paid in advance, but have yet to be consumed. Because these expenses are bought before use, they are sometimes considered **assets**. As time elapses, the asset is used. For example, an adjustment is made to reduce the asset and to recognize the rent expense.
+1. **Prepaid Expense** 
+   - definition: Journal entries made to uipdate acts for previously unrecorded items are called adjustments or adjusting entries.
+   - adjustments recognize expenses paid in advance, but have yet to be consumed. Because these expenses are bought before use, they are sometimes considered **assets**. As time elapses, the asset is used. For example, an adjustment is made to reduce the asset and to recognize the rent expense.
 
   - "Prepaid expense account" are commonly used for:
     - Pre-paid Rent
     - Pre-paid Insurance
     - Pre-paid Advertising
     - Pre-paid Supplies, etc.
+    - For example: Auto insurance is prepaid for a yr but may not be used up by end of period/yr.
 
 | Type | Setup | Adjustment | Description | Example |
 |:-----|:------|:-----------|:------|:-----------|
 | Pre-paid expense/asset | pre-paid Act-asset<br>&nbsp;&nbsp;cash| Act expense<br>&nbsp;&nbsp;pre-paid Act-Asset|
-| Prepaid Exp/Asset | Pre-paid Expense (asset) | Expense | Expenses are paid in advance but may not be used up. | Auto insurance is prepaid for a yr but may not be used up by end of yr. |
+| Prepaid Exp/Asset | Pre-paid Expense (asset) | Expense | Expenses are paid in advance but may not be used up. |
 
 1. Depreciation exp.
 

@@ -20,17 +20,11 @@ tags: drcr
 
 ---
 
-**LEFT-RIGHT RULES**
-
-  - **LEFT Increases asset accounts.**
-
-  - **RIGHT Increases revenue accounts.** 
-  
-'Fee-Income' or 'Revenue' are recorded on right side of accounts.
+*Fee-Income* or *Revenue* are recorded on right side, Credit accounts.
   
 It's important to understand that debits and credits represent changes to specific accounts based on their economic nature (assets, liabilities, etc.).
 
-**It's best to remember:**
+**Remember:** ?????
 
 Debits increase the "giving" sides (assets and expenses) and decrease the "taking" sides (liabilities, equity, and revenue).
 

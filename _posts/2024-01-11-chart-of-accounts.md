@@ -3,18 +3,15 @@ layout: post
 title: chart of accounts
 ---
 
-Numbering & delination of COA
+Numbering & delineation of COA
 
 COA's should be printable and easy to reference bc it may be used often. Small businesses may have 250.
 
-**Typically, chart of accounts have 5 categories:**
-1. Assets
-2. Liabilities
-3. Equity
-4. Revenue
-5. Expenses
+**Typically, 5 categories: A. L. O. R. E.**
 
-**Sometimes numbered:**
+*Assets, Liabilities, Owner Equity, Revenue, Expenses*
+
+*Often numbered:*
 
 | Range | Account Type | Category or Financial Report |
 |-:|:-|-:|

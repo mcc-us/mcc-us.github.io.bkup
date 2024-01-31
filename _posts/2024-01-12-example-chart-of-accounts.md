@@ -1,6 +1,7 @@
 ---
 layout: post
 title: example chart of accounts
+tags: examples
 ---
 
 

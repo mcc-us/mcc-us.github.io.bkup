@@ -7,39 +7,41 @@ Abbreviated definitions
 
 1. *Accounting Cycle*: **"Record, process, report"**, The cyclical process of recording, analyzing, and reporting financial transactions over a specific period.
 
-1. *Accounts*: A "container" that tracks specific assets, liabilities, equity, income, or expenses.
+2. *Accounts*: A "container" that tracks specific assets, liabilities, equity, income, or expenses.
 
-2. *Adjusting entries*: Fixing incomplete or inaccurate records at the end of an accounting period, ensuring the proper accounts and values are entered. (**Cleaning up the financials before reporting**)
+3. *Account form balance sheet*: A balance sheet that lists assets on the left and liabilities and owner’s equity on the right (see also Report form balance sheet).
+   
+4. *Adjusting entries*: Fixing incomplete or inaccurate records at the end of an accounting period, ensuring the proper accounts and values are entered. (**Cleaning up the financials before reporting**)
 
-3. *Adjustment*: A change made to an account that reflects its true, or updated balances at the end of a period. (**"updates to keep things accurate"**)
+5. *Adjustment*: A change made to an account that reflects its true, or updated balances at the end of a period. (**"updates to keep things accurate"**)
 
-4. *Audit Trail*: **"breadcrumbs leading to the source"**, A sequential chain of evidence (documents, entries) showing the origin and flow of information. Document numbers, check numbers, account reference numbers, dates, companies/individuals used and equipment bought or sold should be listed. 
+6. *Audit Trail*: **"breadcrumbs leading to the source"**, A sequential chain of evidence (documents, entries) showing the origin and flow of information. Document numbers, check numbers, account reference numbers, dates, companies/individuals used and equipment bought or sold should be listed. 
 
-5. *Balance Ledger Form*: A balance ledger form is a two-column spreadsheet (debit and credit) that presents the balances and net changes for each account during a specific period. A ledger account form that shows the balance of the account after each entry is posted.
+7. *Balance Ledger Form*: A balance ledger form is a two-column spreadsheet (debit and credit) that presents the balances and net changes for each account during a specific period. A ledger account form that shows the balance of the account after each entry is posted.
 
-6. *Balance sheet*: A formal report of a business’s financial assets, liabilities, and owner's equity for a specific period, **A = L + E**
+8. *Balance sheet*: A formal report of a business’s financial assets, liabilities, and owner's equity for a specific period, **A = L + E**
 
-7. *Book Value*: The remaining cost of an asset after factoring in accumulated depreciation. (**Think: worth after depreciation**)
+9. *Book Value*: The remaining cost of an asset after factoring in accumulated depreciation. (**Think: worth after depreciation**)
 
-8.  *Capital*: Financial investment in a business; **"Owner's equity"**
+10. *Capital*: Financial investment in a business; **"Owner's equity"**
 
-9.  *Chart of Accounts*: A master list of all accounts used by a company, organized by category and code for easy reference.
+11. *Chart of Accounts*: A master list of all accounts used by a company, organized by category and code for easy reference.
 
-10. *Classification*: Grouping transactions into relevant accounts.
+12. *Classification*: Grouping transactions into relevant accounts.
 
-11. *Compound Entry*: A single journal entry affecting multiple accounts, usually with both debits and credits. (**One entry, multiple impacts**)
+13. *Compound Entry*: A single journal entry affecting multiple accounts, usually with both debits and credits. (**One entry, multiple impacts**)
 
-12. *Contra Account*: An account with a normal balance that is opposite that of a related account.
+14. *Contra Account*: An account with a normal balance that is opposite that of a related account.
 
-13. *Contra Asset Account*: A contra account that reduces the balance of an asset account. (**??Think: "mini-vacuum" sucking away from another asset**)
+15. *Contra Asset Account*: A contra account that reduces the balance of an asset account. (**??Think: "mini-vacuum" sucking away from another asset**)
 
-14. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry. (**An entry to fix mistakes**)
+16. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry. (**An entry to fix mistakes**)
 
-15. *Double-declining-depreciation*: Rate is twice simple linear depreciation.
+17. *Double-declining-depreciation*: Rate is twice simple linear depreciation.
 
-16. *Drawing Account*: An account used to record owner withdrawals from the business, reducing their equity.
+18. *Drawing Account*: An account used to record owner withdrawals from the business, reducing their equity.
 
-17. *Equity*: synonyms
+19. *Equity*: synonyms
     1.  Ownership interest
     2.  Investment: Highlights the financial stake
     3.  Net assets: Focuses on the difference between assets and liabilities, representing the residual value owned by shareholders.

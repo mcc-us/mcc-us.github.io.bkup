@@ -21,6 +21,7 @@ author: mcc
 
 navbar-links:
   Tags: "tags"
+  Glossary: "https://mcc-us.github.io/2020-01-01-glossary-accounting-terms/"
   Statements: 
     - income: "https://mcc-us.github.io/2024-01-17-dincome-statement/"
     - equity: "https://mcc-us.github.io/2024-01-17-cchanges-in-equity/"
@@ -30,7 +31,6 @@ navbar-links:
     - cheatsheet: "https://mcc-us.github.io/2024-01-16-order-of-financial-statements"
   Favorites: 
     - debit/credit: "https://mcc-us.github.io/2023-12-27-youtube-debit-credits-explained/"
-    - glossary: "https://mcc-us.github.io/2020-01-01-glossary-accounting-terms/"
     - markdown: "https://mcc-us.github.io/2020-02-28-sample-markdown/"
     - dear=clip: "https://mcc-us.github.io/2023-12-27-dear-clip/"
     - worksheets: "https://mcc-us.github.io/2024-01-16-worksheet-template/"

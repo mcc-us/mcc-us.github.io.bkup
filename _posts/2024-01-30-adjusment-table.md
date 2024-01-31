@@ -15,3 +15,7 @@ tags: [adjustments, cheatsheet]
 |5| Unearned rev. |cash<br>&nbsp;&nbsp;&nbsp;Unearned Act-rev. | Unearned rev.<br>&nbsp;&nbsp;&nbsp;Act rev.|
 
 ---
+
+**For more information see**: Tony Bell [FA 16-Adjusted Trial Balance](https://www.youtube.com/watch?v=TKpabpcjk14), [FA 17-Preparing Detailed Financial Statements](https://www.youtube.com/watch?v=NT5zaYuEyuk)
+
+---

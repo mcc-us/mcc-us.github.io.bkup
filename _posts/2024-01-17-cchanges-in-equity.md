@@ -5,12 +5,11 @@ tags: reporting
 ---
 
 {: .box-success}
-Include: **Capital, Common Shares, Income, Dividends, Retained Earnings & Withdrawls**
-
-The **Changes in Equity Statement** is needed for **Total Equity in Balance Sheet**.
+Include: Capital, Common Shares, Income, Dividends, Retained Earnings & Withdrawls
+ 
 
 {: .box-warning}
-NEED Income statement: **Net Income**  
+The **Net Income** from **Changes in Equity** is needed for calculation for equity in **Balance Sheet**.
   
 1. Include: **Capital, Common Shares, Dividends, Retained Earnings & Withdrawls**
 2. Set-up 4 column worksheet  

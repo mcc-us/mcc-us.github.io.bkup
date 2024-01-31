@@ -6,7 +6,7 @@ tags: reporting
 
 
 {: .box-success}
-TB - List all accounts in order: **A, L, O(wners Equity), Rev, Exp**<br>&nbsp;&nbsp;then check for equal balances.
+List all accounts in order: **A, L, O(wners Equity), R, E**<br>&nbsp;&nbsp;&nbsp;&nbsp;& check for equal balances.
 
 ---
 

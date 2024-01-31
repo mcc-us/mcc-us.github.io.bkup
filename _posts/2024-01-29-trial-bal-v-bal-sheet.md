@@ -4,7 +4,7 @@ title: trial balance v balance sheet
 tags: reporting
 ---
 
-Q. what is the difference between a trial balance and a balance sheet?
+Q. What is the difference between a trial balance and a balance sheet?
 
 Here's some key differences:
 

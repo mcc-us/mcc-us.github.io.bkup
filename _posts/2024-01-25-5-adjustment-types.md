@@ -4,7 +4,8 @@ title: 5 adjusting journal entries
 tags: adjustments
 ---
 
-## adjustments entries: 5 types
+## adjustments: 5 types
+<br>
 
 #### 1. **Prepaid Expense** 
    - Definition: **_adjustments or adjusting entries_ are journal entries made to update acts for previously unrecorded items.**

@@ -3,10 +3,6 @@ layout: post
 title: chart of accounts
 ---
 
-Numbering & delineation of COA
-
-COA's should be printable and easy to reference bc it may be used often. Small businesses may have 250.
-
 **Typically, 5 categories: A. L. O. R. E.**
 
 *Assets, Liabilities, Owner Equity, Revenue, Expenses*
@@ -24,6 +20,8 @@ COA's should be printable and easy to reference bc it may be used often. Small b
 | 700 – 799 | Taxes Paid | Profit & Loss |
 | 800 – 899 | Other Expenses | Profit & Loss |
 
+
+COA's should be printable and easy to reference bc it may be used often. Small businesses may have 250.
 
 
 

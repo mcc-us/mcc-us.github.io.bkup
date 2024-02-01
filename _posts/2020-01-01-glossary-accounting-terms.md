@@ -29,19 +29,21 @@ Abbreviated definitions
 
 12. *Classification*: Grouping transactions into relevant accounts.
 
-13. *Compound Entry*: A single journal entry affecting multiple accounts, usually with both debits and credits. (**One entry, multiple impacts**)
+13. *Closing Journal Entries*: Closing entries transfer temporary account balances, like revenue and expenses, into permanent accounts like retained earnings, resetting temporary accounts to zero and preparing them for the next period.
 
-14. *Contra Account*: An account with a normal balance that is opposite that of a related account.
+14. *Compound Entry*: A single journal entry affecting multiple accounts, usually with both debits and credits. (**One entry, multiple impacts**)
 
-15. *Contra Asset Account*: A contra account that reduces the balance of an asset account. (**??Think: "mini-vacuum" sucking away from another asset**)
+15. *Contra Account*: An account with a normal balance that is opposite that of a related account.
 
-16. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry. (**An entry to fix mistakes**)
+16. *Contra Asset Account*: A contra account that reduces the balance of an asset account. (**??Think: "mini-vacuum" sucking away from another asset**)
 
-17. *Double-declining-depreciation*: Rate is twice simple linear depreciation.
+17. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry. (**An entry to fix mistakes**)
 
-18. *Drawing Account*: An account used to record owner withdrawals from the business, reducing their equity.
+18. *Double-declining-depreciation*: Rate is twice simple linear depreciation.
 
-19. *Equity*: synonyms
+19. *Drawing Account*: An account used to record owner withdrawals from the business, reducing their equity.
+
+20. *Equity*: synonyms
     1.  Ownership interest
     2.  Investment: Highlights the financial stake
     3.  Net assets: Focuses on the difference between assets and liabilities, representing the residual value owned by shareholders.
